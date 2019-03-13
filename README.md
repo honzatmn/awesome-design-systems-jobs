@@ -12,6 +12,8 @@ Awesome opportunities for UI Engineers, Front-end Engineers and other engineerin
 
 |  | Company | Location |
 |----------|---------|----------|
+|[Creative Technologist](https://automattic.com/work-with-us/creative-technologist/)|Automattic|Remote|
+|[Senior Creative Technologist, Design Systems](https://corporate.gapinc.com/en-us/jobs/26/88/senior-creative-technologist,-design-systems)|Gap Inc.|San Francisco, CA, USA|
 |[Design Systems Engineer - Web](https://www.spotifyjobs.com/job/design-systems-engineer-web-oron9fwv/)|Spotify|Stockholm, Sweden|
 |[Design Systems Engineer - Mobile iOS](https://www.spotifyjobs.com/job/design-systems-engineer-mobile-ios-oqiu7fwt/)|Spotify|Stockholm, Sweden|
 |[UX Engineer](https://www.signalsciences.com/careers/ux-engineer/)|Signal Sciences| Culver City, CA, USA|
@@ -26,7 +28,6 @@ Awesome job opportunities for UI designers, design system leads and other design
 |[Lead Designer, Design Systems](https://jobs.lever.co/atlassian/7f42feb8-fdfc-41ca-a83d-8fe68216a031)|Atlassian|Mountain View, CA, USA|
 |[Senior Product Designer, Platform Fabric](https://www.atlassian.com/company/careers/detail/83107944-a570-4d77-9594-2e35d2574c3c?fbclid=IwAR3UyqUWJmepR1x_wsilz5qeLItIjz_8T2SJREuuw0vCDrjOvagNoRSVS_o)|Atlassian|Sydney, Australia|
 |[Sr UX Designer - Design Systems](https://corporate.gapinc.com/en-us/jobs/26/29/sr-ux-designer)|Gap Inc.|San Francisco, CA, USA|
-|[Senior Creative Technologist, Design Systems](https://corporate.gapinc.com/en-us/jobs/26/88/senior-creative-technologist,-design-systems)|Gap Inc.|San Francisco, CA, USA|
 |[Visual Designer, Design Systems](https://www.thoughtspot.com/careers-listing?gh_jid=1583698)|ThoughtSpot|Sunnyvale, CA, USA|
 |[Lead Product Designer, Design Systems](https://www.okta.com/company/careers/ux--design/product-designer-design-systems-1557504/)|Okta|San Francisco, CA, USA|
 |[Senior UX Designer, Design Systems](https://rei.jobs/careers/JobDetail/Senior-User-Experience-Designer-Design-Systems/12700)|REI Co-op|Kent, WA, USA|
