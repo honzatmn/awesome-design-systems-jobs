@@ -8,19 +8,19 @@ Know a job position that isn't listed below? Is position already inactive? Feel 
 ## Engineering
 Awesome opportunities for UI Engineers, Front-end Engineers and other engineering roles. 
 
-|  | Company | Location | Remote friendly |
-|----------|---------|----------|----------|
-|[Design Systems Engineer - Web](https://www.spotifyjobs.com/job/design-systems-engineer-web-oron9fwv/)|Spotify|Stockholm, Sweden||
-|[Design Systems Engineer - Mobile iOS](https://www.spotifyjobs.com/job/design-systems-engineer-mobile-ios-oqiu7fwt/)|Spotify|Stockholm, Sweden||
-|[UX Engineer](https://www.signalsciences.com/careers/ux-engineer/)|Signal Sciences| Culver City, CA, USA||
-|[Master Software Engineer (Design Systems)](https://www.capitalonecareers.com/job/richmond/master-software-engineer-design-systems/1732/11139150)|Capital One| Richmond, Virginia, USA||
-|[Sr. Web Engineer, Spectrum Design System](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Francisco/Sr-Web-Engineer--Spectrum-Design-System_69532)|Adobe| San Francisco, CA, USA<br>Seattle, DC, USA<br>Lehi, UT, USA||
+|  | Company | Location |
+|----------|---------|----------|
+|[Design Systems Engineer - Web](https://www.spotifyjobs.com/job/design-systems-engineer-web-oron9fwv/)|Spotify|Stockholm, Sweden|
+|[Design Systems Engineer - Mobile iOS](https://www.spotifyjobs.com/job/design-systems-engineer-mobile-ios-oqiu7fwt/)|Spotify|Stockholm, Sweden|
+|[UX Engineer](https://www.signalsciences.com/careers/ux-engineer/)|Signal Sciences| Culver City, CA, USA|
+|[Master Software Engineer (Design Systems)](https://www.capitalonecareers.com/job/richmond/master-software-engineer-design-systems/1732/11139150)|Capital One| Richmond, Virginia, USA|
+|[Sr. Web Engineer, Spectrum Design System](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Francisco/Sr-Web-Engineer--Spectrum-Design-System_69532)|Adobe| San Francisco, CA, USA<br>Seattle, DC, USA<br>Lehi, UT, USA|
 
 ## Design
 Awesome job opportunities for UI designers, design system leads and other design.
 
-|  | Company | Location | Remote friendly |
-|----------|---------|----------|----------|
+|  | Company | Location |
+|----------|---------|----------|
 |[Lead Designer, Design Systems](https://jobs.lever.co/atlassian/7f42feb8-fdfc-41ca-a83d-8fe68216a031)|Atlassian|Mountain View, CA, USA|
 |[Senior Product Designer, Platform Fabric](https://www.atlassian.com/company/careers/detail/83107944-a570-4d77-9594-2e35d2574c3c?fbclid=IwAR3UyqUWJmepR1x_wsilz5qeLItIjz_8T2SJREuuw0vCDrjOvagNoRSVS_o)|Atlassian|Sydney, Australia|
 |[Sr UX Designer - Design Systems](https://corporate.gapinc.com/en-us/jobs/26/29/sr-ux-designer)|Gap Inc.|San Francisco, CA, USA|
@@ -30,13 +30,13 @@ Awesome job opportunities for UI designers, design system leads and other design
 |[Senior UX Designer, Design Systems](https://rei.jobs/careers/JobDetail/Senior-User-Experience-Designer-Design-Systems/12700)|REI Co-op|Kent, WA, USA|
 |[Senior Product Designer, Design Systems](https://www.zendesk.com/jobs/view/?job=2274399a-699a-43e9-9e3f-fa1f6d168ae2)|Zendesk|San Francisco, CA, USA|
 |[Product Designer - Visual](https://www.signalsciences.com/careers/product-designer-visual-interaction/)|Signal Sciences|Los Angeles, USA|
-|[Lead Product Designer, DesignOps Products](https://boards.greenhouse.io/invision/jobs/1005185)|InvisionApp|Remote||
+|[Lead Product Designer, DesignOps Products](https://boards.greenhouse.io/invision/jobs/1005185)|InvisionApp|Remote|
 
 ## Other
 Awesome opportunities for all content writers, QA testers, product managers, ...
 
-|  | Company | Location | Remote friendly |
-|----------|---------|----------|----------|
-|[Design System's Content Writer](https://jobs.kiwi.com/engineering/design-systems-content-writer/)|Kiwi.com|Brno, Czech Republic||
-|[Manager, Design Systems](https://jobs.hilton.com/job/Manager%2C-Design-Systems/J3T7CJ6GJVZTRJ672L8)|Hilton|Memphis, TN, USA<br>Dallas, TX, USA||
-|[Director, Design Systems](https://www.indeed.com/viewjob?jk=c494142671f6b586&tk=1d5r58bqr0kcp003&from=serp&vjs=3)|Zendesk|San Francisco, CA, USA||
+|  | Company | Location |
+|----------|---------|----------|
+|[Design System's Content Writer](https://jobs.kiwi.com/engineering/design-systems-content-writer/)|Kiwi.com|Brno, Czech Republic|
+|[Manager, Design Systems](https://jobs.hilton.com/job/Manager%2C-Design-Systems/J3T7CJ6GJVZTRJ672L8)|Hilton|Memphis, TN, USA<br>Dallas, TX, USA|
+|[Director, Design Systems](https://www.indeed.com/viewjob?jk=c494142671f6b586&tk=1d5r58bqr0kcp003&from=serp&vjs=3)|Zendesk|San Francisco, CA, USA|
