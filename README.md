@@ -40,6 +40,7 @@ Awesome opportunities for all content writers, QA testers, product managers, ...
 
 |  | Company | Location |
 |----------|---------|----------|
+|[Group Manager - Intuit Design System](https://careers.intuit.com/job-category/2/design-and-user-experience/job/2018-6211/group-manager-intuit-design-system)|Intuit|Mountain View, California<br>San Diego, California|
 |[Design System's Content Writer](https://jobs.kiwi.com/engineering/design-systems-content-writer/)|Kiwi.com|Brno, Czech Republic|
 |[Manager, Design Systems](https://jobs.hilton.com/job/Manager%2C-Design-Systems/J3T7CJ6GJVZTRJ672L8)|Hilton|Memphis, TN, USA<br>Dallas, TX, USA|
 |[Director, Design Systems](https://www.indeed.com/viewjob?jk=c494142671f6b586)|Zendesk|San Francisco, CA, USA|
