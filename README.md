@@ -3,7 +3,7 @@
 
 ![Contributions welcome](https://camo.githubusercontent.com/9c8a9bb0456c3bff0d34d8ea66071420f1ab2c44/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f6e747269627574696f6e732d77656c636f6d652d626c75652e737667 "Contributions welcome")
 
-Know a job position that isn't listed below? Is position already inactive? Feel free to create a [new pull request](https://github.com/darkwindcz/awesome-design-systems-jobs/pulls), or [open an issue](https://github.com/darkwindcz/awesome-design-systems-jobs/issues/new).
+Know a job position that isn't listed below? Is listed position already inactive? Feel free to create a [new pull request](https://github.com/darkwindcz/awesome-design-systems-jobs/pulls), or [open an issue](https://github.com/darkwindcz/awesome-design-systems-jobs/issues/new). Please, read the [contribution guidelines](./contributing.md) before contributing.
 
 ## Engineering
 Awesome opportunities for UI Engineers, Front-end Engineers and other engineering roles. 
