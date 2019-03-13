@@ -39,4 +39,5 @@ Awesome opportunities for all content writers, QA testers, product managers, ...
 |----------|---------|----------|
 |[Design System's Content Writer](https://jobs.kiwi.com/engineering/design-systems-content-writer/)|Kiwi.com|Brno, Czech Republic|
 |[Manager, Design Systems](https://jobs.hilton.com/job/Manager%2C-Design-Systems/J3T7CJ6GJVZTRJ672L8)|Hilton|Memphis, TN, USA<br>Dallas, TX, USA|
-|[Director, Design Systems](https://www.indeed.com/viewjob?jk=c494142671f6b586&tk=1d5r58bqr0kcp003&from=serp&vjs=3)|Zendesk|San Francisco, CA, USA|
+|[Director, Design Systems](https://www.indeed.com/viewjob?jk=c494142671f6b586)|Zendesk|San Francisco, CA, USA|
+|[Director - Design Systems](https://www.indeed.com/viewjob?jk=223e8143f715ec6c)|Twitch|San Francisco, CA, USA|
