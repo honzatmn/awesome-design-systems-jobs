@@ -34,7 +34,6 @@ Awesome job opportunities for UI designers, design system leads and other design
 |[Senior UX Designer, Design Systems](https://rei.jobs/careers/JobDetail/Senior-User-Experience-Designer-Design-Systems/12700)|REI Co-op|Kent, WA, USA|
 |[Senior Product Designer, Design Systems](https://www.zendesk.com/jobs/view/?job=2274399a-699a-43e9-9e3f-fa1f6d168ae2)|Zendesk|San Francisco, CA, USA|
 |[Product Designer - Visual](https://www.signalsciences.com/careers/product-designer-visual-interaction/)|Signal Sciences|Los Angeles, USA|
-|[Lead Product Designer, DesignOps Products](https://boards.greenhouse.io/invision/jobs/1005185)|InvisionApp|Remote|
 
 ## Other
 Awesome opportunities for all content writers, QA testers, product managers, ...
