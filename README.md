@@ -12,6 +12,7 @@ Awesome opportunities for UI Engineers, Front-end Engineers and other engineerin
 
 |  | Company | Location |
 |----------|---------|----------|
+|[Design Technologist](https://recruiting.ultipro.com/NAT1011NATPR/JobBoard/af823b19-a43b-4cda-b6c2-c06508d84cf6/OpportunityDetail?opportunityId=1ec3b745-6702-422f-a474-7d0c87ef0b71)|NPR|Washington DC, USA|
 |[Frontend Engineer, Dashboard & Design Systems](https://jobs.lever.co/auth0/0aaa432d-2ec2-4326-b5c2-7a728ee3d5cf)|Auth0|Remote|
 |[Creative Technologist](https://automattic.com/work-with-us/creative-technologist/)|Automattic|Remote|
 |[Senior Creative Technologist, Design Systems](https://corporate.gapinc.com/en-us/jobs/26/88/senior-creative-technologist,-design-systems)|Gap Inc.|San Francisco, CA, USA|
