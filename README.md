@@ -12,6 +12,7 @@ Awesome opportunities for UI Engineers, Front-end Engineers and other engineerin
 
 |  | Company | Location |
 |----------|---------|----------|
+|[Frontend Engineer, Dashboard & Design Systems](https://jobs.lever.co/auth0/0aaa432d-2ec2-4326-b5c2-7a728ee3d5cf)|Auth0|Remote|
 |[Creative Technologist](https://automattic.com/work-with-us/creative-technologist/)|Automattic|Remote|
 |[Senior Creative Technologist, Design Systems](https://corporate.gapinc.com/en-us/jobs/26/88/senior-creative-technologist,-design-systems)|Gap Inc.|San Francisco, CA, USA|
 |[Design Systems Engineer - Web](https://www.spotifyjobs.com/job/design-systems-engineer-web-oron9fwv/)|Spotify|Stockholm, Sweden|
