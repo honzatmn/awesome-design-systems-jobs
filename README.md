@@ -25,6 +25,7 @@ Awesome job opportunities for UI designers, design system leads and other design
 
 |  | Company | Location |
 |----------|---------|----------|
+|[Senior or Lead Product Designer, Design Systems](https://www.indeed.com/viewjob?jk=907ad11f756bdb54)|Salesforce|San Francisco, CA, USA|
 |[Senior Designer - Design Systems](https://www.linkedin.com/jobs/view/1153748695/)|Sainsbury’s|London, GB|
 |[Experience Designer – Commercial Design Systems](https://commercialbank.design/job/experience-designer-commercial-design-systems/)|Capital One|New York, NY, USA|
 |[Visual Designer, Design Systems](https://grnh.se/44b756c41)|SurveyMonkey|San Mateo, CA, USA|
