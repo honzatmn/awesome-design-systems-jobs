@@ -27,12 +27,12 @@ Awesome job opportunities for UI designers, design system leads and other design
 
 |  | Company | Location |
 |----------|---------|----------|
-|[Product Designer, Design Systems](https://www.indeed.com/viewjob?jk=47c5c492c398d6e5&tk=1d6grc4gf1s7n003&from=serp&vjs=3)|Squarespace|New York, NY, USA|
-|[Product Designer, Design Systems - Jemstep](https://www.indeed.com/viewjob?jk=bba5766490392f09)|Invesco|Los Altos, CA, USA|
+|[Product Designer, Design Systems](https://www.squarespace.com/careers/jobs/1550877)|Squarespace|New York, NY, USA|
+|[Product Designer, Design Systems - Jemstep](http://careers.invesco.com/ShowJob/Id/227833/)|Invesco|Los Altos, CA, USA|
 |[Lead Product Designer (Design Systems)](https://n26.com/en/careers/positions/1495303)|N26|Berlin, Germany|
 |[Product Designer, Design Systems](https://newsela.com/company/jobs/?gh_jid=1491391)|Newsela|New York, NY, USA|
 |[Principal Product Designer, Design Systems](https://jobs.libertymutualgroup.com/job/9307074/principal-product-designer-design-systems-boston-ma/)|Liberty Mutual Insurance|Boston, MA, USA|
-|[Senior or Lead Product Designer, Design Systems](https://www.indeed.com/viewjob?jk=907ad11f756bdb54)|Salesforce|San Francisco, CA, USA|
+|[Senior or Lead Product Designer, Design Systems](https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Senior-or-Lead-Product-Designer--Design-Systems_JR36165-1)|Salesforce|San Francisco, CA, USA|
 |[Senior Designer - Design Systems](https://www.linkedin.com/jobs/view/1153748695/)|Sainsbury’s|London, GB|
 |[Experience Designer – Commercial Design Systems](https://commercialbank.design/job/experience-designer-commercial-design-systems/)|Capital One|New York, NY, USA|
 |[Visual Designer, Design Systems](https://grnh.se/44b756c41)|SurveyMonkey|San Mateo, CA, USA|
