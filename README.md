@@ -12,7 +12,6 @@ Awesome opportunities for UI Engineers, Front-end Engineers and other engineerin
 
 |  | Company | Location |
 |----------|---------|----------|
-|[Product Designer, Design Systems - Jemstep](https://www.indeed.com/viewjob?jk=bba5766490392f09)|Invesco|Los Altos, CA, USA|
 |[Design Technologist](https://recruiting.ultipro.com/NAT1011NATPR/JobBoard/af823b19-a43b-4cda-b6c2-c06508d84cf6/OpportunityDetail?opportunityId=1ec3b745-6702-422f-a474-7d0c87ef0b71)|NPR|Washington DC, USA|
 |[Frontend Engineer, Dashboard & Design Systems](https://jobs.lever.co/auth0/0aaa432d-2ec2-4326-b5c2-7a728ee3d5cf)|Auth0|Remote|
 |[Creative Technologist](https://automattic.com/work-with-us/creative-technologist/)|Automattic|Remote|
@@ -28,6 +27,7 @@ Awesome job opportunities for UI designers, design system leads and other design
 
 |  | Company | Location |
 |----------|---------|----------|
+|[Product Designer, Design Systems - Jemstep](https://www.indeed.com/viewjob?jk=bba5766490392f09)|Invesco|Los Altos, CA, USA|
 |[Lead Product Designer (Design Systems)](https://n26.com/en/careers/positions/1495303)|N26|Berlin, Germany|
 |[Product Designer, Design Systems](https://newsela.com/company/jobs/?gh_jid=1491391)|Newsela|New York, NY, USA|
 |[Principal Product Designer, Design Systems](https://jobs.libertymutualgroup.com/job/9307074/principal-product-designer-design-systems-boston-ma/)|Liberty Mutual Insurance|Boston, MA, USA|
