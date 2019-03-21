@@ -27,6 +27,7 @@ Awesome job opportunities for UI designers, design system leads and other design
 
 |  | Company | Location |
 |----------|---------|----------|
+|[Lead Product Designer (Design Systems)](https://n26.com/en/careers/positions/1495303)|N26|Berlin, Germany|
 |[Product Designer, Design Systems](https://newsela.com/company/jobs/?gh_jid=1491391)|Newsela|New York, NY, USA|
 |[Principal Product Designer, Design Systems](https://jobs.libertymutualgroup.com/job/9307074/principal-product-designer-design-systems-boston-ma/)|Liberty Mutual Insurance|Boston, MA, USA|
 |[Senior or Lead Product Designer, Design Systems](https://www.indeed.com/viewjob?jk=907ad11f756bdb54)|Salesforce|San Francisco, CA, USA|
