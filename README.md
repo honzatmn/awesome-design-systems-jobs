@@ -27,6 +27,7 @@ Awesome job opportunities for UI designers, design system leads and other design
 
 |  | Company | Location |
 |----------|---------|----------|
+|[Product Designer, Design Systems](https://www.indeed.com/viewjob?jk=47c5c492c398d6e5&tk=1d6grc4gf1s7n003&from=serp&vjs=3)|Squarespace|New York, NY, USA|
 |[Product Designer, Design Systems - Jemstep](https://www.indeed.com/viewjob?jk=bba5766490392f09)|Invesco|Los Altos, CA, USA|
 |[Lead Product Designer (Design Systems)](https://n26.com/en/careers/positions/1495303)|N26|Berlin, Germany|
 |[Product Designer, Design Systems](https://newsela.com/company/jobs/?gh_jid=1491391)|Newsela|New York, NY, USA|
