@@ -27,6 +27,7 @@ Awesome job opportunities for UI designers, design system leads and other design
 
 |  | Company | Location |
 |----------|---------|----------|
+|[Principal Designer, UI and Design Systems](https://jobs.lever.co/grandrounds/feebde25-1196-4469-85e1-0346dbc8b493)|Grand Rounds|San Francisco, CA, USA|
 |[Product Designer, Design Systems](https://www.squarespace.com/careers/jobs/1550877)|Squarespace|New York, NY, USA|
 |[Product Designer, Design Systems - Jemstep](http://careers.invesco.com/ShowJob/Id/227833/)|Invesco|Los Altos, CA, USA|
 |[Lead Product Designer (Design Systems)](https://grnh.se/d6b9c94b1)|N26|Berlin, Germany|
