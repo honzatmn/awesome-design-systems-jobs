@@ -28,6 +28,7 @@ Awesome job opportunities for UI designers, design system leads and other design
 
 |  | Company | Location |
 |----------|---------|----------|
+|[UX Designer, Design Systems (Native iOS)](https://corporate.gapinc.com/en-us/jobs/26/82/ux-designer,-design-systems-native-ios)|Gap Inc.|San Francisco, CA, USA|
 |[Principal Designer, UI and Design Systems](https://jobs.lever.co/grandrounds/feebde25-1196-4469-85e1-0346dbc8b493)|Grand Rounds|San Francisco, CA, USA|
 |[Product Designer, Design Systems](https://www.squarespace.com/careers/jobs/1550877)|Squarespace|New York, NY, USA|
 |[Product Designer, Design Systems - Jemstep](http://careers.invesco.com/ShowJob/Id/227833/)|Invesco|Los Altos, CA, USA|
