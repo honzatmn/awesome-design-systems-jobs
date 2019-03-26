@@ -12,6 +12,7 @@ Awesome opportunities for UI Engineers, Front-end Engineers and other engineerin
 
 |  | Company | Location |
 |----------|---------|----------|
+|[Design System Engineer](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CA-Pleasanton/Senior-Design-System-Engineer_JR-30692)|Workday|Pleasanton, CA, USA<br>San Francisco, CA, USA|
 |[UI Platform Engineer](https://boards.greenhouse.io/cbinsights/jobs/1115711)|CB Insights|New York, NY, USA|
 |[Sr. / Lead UX Engineer, Design Systems Framework](https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Sr---Lead-UX-Engineer--Design-Systems-Framework_JR34812)|Salesforce|US Remote<br>San Francisco, CA, USA|
 |[Design Technologist](https://recruiting.ultipro.com/NAT1011NATPR/JobBoard/af823b19-a43b-4cda-b6c2-c06508d84cf6/OpportunityDetail?opportunityId=1ec3b745-6702-422f-a474-7d0c87ef0b71)|NPR|Washington DC, USA|
