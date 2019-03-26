@@ -29,6 +29,7 @@ Awesome job opportunities for UI designers, design system leads and other design
 
 |  | Company | Location |
 |----------|---------|----------|
+|[Product Designer, Design Systems](https://www.gotinder.com/jobs/apply?gh_jid=1542703)|Tinder|Los Angeles, CA, USA|
 |[Senior Product Designer - Design Systems](https://www.compass.com/careers/?gh_jid=1434105)|Compass|New York, NY, USA|
 |[Senior UX Design Systems](https://herodigital.com/current-openings/?gh_jid=1596045)|Hero Digital|Cupertino, CA, USA|
 |[Lead/Principal Visual Designer - Design Systems](https://www.fitbit.com/eu/careers/search#jobs/1432238)|Fitbit|San Francisco, CA, USA|
