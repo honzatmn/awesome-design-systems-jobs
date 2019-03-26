@@ -28,6 +28,7 @@ Awesome job opportunities for UI designers, design system leads and other design
 
 |  | Company | Location |
 |----------|---------|----------|
+|[Lead/Principal Visual Designer - Design Systems](https://www.fitbit.com/eu/careers/search#jobs/1432238)|Fitbit|San Francisco, CA, USA|
 |[Senior Product Designer - Design Systems](https://www.fitbit.com/eu/careers/search#jobs/1044613)|Fitbit|San Francisco, CA, USA|
 |[Product Design Leadership, Design Systems](https://boards.greenhouse.io/gusto/jobs/978162)|Gusto|San Francisco, CA, USA|
 |[UX Designer, Design Systems (Native iOS)](https://corporate.gapinc.com/en-us/jobs/26/82/ux-designer,-design-systems-native-ios)|Gap Inc.|San Francisco, CA, USA|
