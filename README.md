@@ -12,7 +12,6 @@ Awesome opportunities for UI Engineers, Front-end Engineers and other engineerin
 
 |  | Company | Location |
 |----------|---------|----------|
-|[UX Designer – AWS Design System](https://www.amazon.jobs/en/jobs/802290/ux-designer-aws-design-system)|Amazon|Berlin, Germany|
 |[Software Engineer - Design System](https://jobs.zalando.com/jobs/1538967-software-engineer-design-system/)|Zalando|Berlin, Germany|
 |[Design System Engineer](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CA-Pleasanton/Senior-Design-System-Engineer_JR-30692)|Workday|Pleasanton, CA, USA<br>San Francisco, CA, USA|
 |[UI Platform Engineer](https://boards.greenhouse.io/cbinsights/jobs/1115711)|CB Insights|New York, NY, USA|
@@ -32,6 +31,8 @@ Awesome job opportunities for UI designers, design system leads and other design
 
 |  | Company | Location |
 |----------|---------|----------|
+|[Visual Designer – AWS Design System](https://www.amazon.jobs/en/jobs/802277/visual-designer-aws-design-system)|Amazon|Berlin, Germany|
+|[UX Designer – AWS Design System](https://www.amazon.jobs/en/jobs/802290/ux-designer-aws-design-system)|Amazon|Berlin, Germany|
 |[Mobile Product Designer - Design System](https://jobs.zalando.com/jobs/1187695-mobile-product-designer-design-system/)|Zalando|Berlin, Germany|
 |[Product Designer, Design Systems](https://asana.com/jobs/apply/1589228/product-designerdesign-systems)|Asana|San Francisco, CA, USA|
 |[Product Designer, Design Systems](https://www.gotinder.com/jobs/apply?gh_jid=1542703)|Tinder|Los Angeles, CA, USA|
