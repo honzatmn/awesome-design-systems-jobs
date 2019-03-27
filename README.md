@@ -40,7 +40,6 @@ Awesome job opportunities for UI designers, design system leads and other design
 |[Senior Product Designer - Design Systems](https://www.compass.com/careers/?gh_jid=1434105)|Compass|New York, NY, USA|
 |[Senior UX Design Systems](https://herodigital.com/current-openings/?gh_jid=1596045)|Hero Digital|Cupertino, CA, USA|
 |[Lead/Principal Visual Designer - Design Systems](https://www.fitbit.com/eu/careers/search#jobs/1432238)|Fitbit|San Francisco, CA, USA|
-|[Senior Product Designer - Design Systems](https://www.fitbit.com/eu/careers/search#jobs/1044613)|Fitbit|San Francisco, CA, USA|
 |[Product Design Leadership, Design Systems](https://boards.greenhouse.io/gusto/jobs/978162)|Gusto|San Francisco, CA, USA|
 |[UX Designer, Design Systems (Native iOS)](https://corporate.gapinc.com/en-us/jobs/26/82/ux-designer,-design-systems-native-ios)|Gap Inc.|San Francisco, CA, USA|
 |[Principal Designer, UI and Design Systems](https://jobs.lever.co/grandrounds/feebde25-1196-4469-85e1-0346dbc8b493)|Grand Rounds|San Francisco, CA, USA|
@@ -73,4 +72,3 @@ Awesome opportunities for all content writers, QA testers, product managers, ...
 |[Group Manager - Intuit Design System](https://careers.intuit.com/job-category/2/design-and-user-experience/job/2018-6211/group-manager-intuit-design-system)|Intuit|Mountain View, California<br>San Diego, California|
 |[Design System's Content Writer](https://jobs.kiwi.com/engineering/design-systems-content-writer/)|Kiwi.com|Brno, Czech Republic<br>Prague, Czech Republic<br>Barcelona, Spain<br>Lisbon, Portugal|
 |[Manager, Design Systems](https://jobs.hilton.com/job/Manager%2C-Design-Systems/J3T7CJ6GJVZTRJ672L8)|Hilton|Memphis, TN, USA<br>Dallas, TX, USA|
-|[Director - Design Systems](https://jobs.lever.co/twitch/24363d9a-2d3a-4c87-afcf-736aed8f4c8a)|Twitch|San Francisco, CA, USA|
