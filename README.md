@@ -12,6 +12,7 @@ Awesome opportunities for UI Engineers, Front-end Engineers and other engineerin
 
 |  | Company | Location |
 |----------|---------|----------|
+|[Developer - Carbon Design System](https://careers.ibm.com/ShowJob/Id/576741/Developer-Carbon-Design-System/)|IBM|Austin, TX, USA|
 |[Software Engineer - Design System](https://jobs.zalando.com/jobs/1538967-software-engineer-design-system/)|Zalando|Berlin, Germany|
 |[Design System Engineer](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CA-Pleasanton/Senior-Design-System-Engineer_JR-30692)|Workday|Pleasanton, CA, USA<br>San Francisco, CA, USA|
 |[UI Platform Engineer](https://boards.greenhouse.io/cbinsights/jobs/1115711)|CB Insights|New York, NY, USA|
@@ -31,6 +32,9 @@ Awesome job opportunities for UI designers, design system leads and other design
 
 |  | Company | Location |
 |----------|---------|----------|
+|[Product Designer (Design Systems)](https://onfido.workable.com/jobs/934643)|Onfido|London, UK|
+|[Systems Designer](https://jobs.apple.com/en-us/details/114352513/systems-designer)|Apple|Cupertino, CA, USA|
+|[Sr. Design Lead – Enterprise Design System (UX Architect)](https://careers.travelers.com/job/9066970/sr-design-lead-enterprise-design-system-ux-architect--hartford-ct/)|Travelers|Hartford, CT, USA|
 |[Principal Designer](https://www.skyscanner.net/jobs/job/1441976/)|Skyscanner|London, UK<br>Edinburgh, Scotland|
 |[Visual Designer – AWS Design System](https://www.amazon.jobs/en/jobs/802277/visual-designer-aws-design-system)|Amazon|Berlin, Germany|
 |[UX Designer – AWS Design System](https://www.amazon.jobs/en/jobs/802290/ux-designer-aws-design-system)|Amazon|Berlin, Germany|
@@ -65,6 +69,7 @@ Awesome opportunities for all content writers, QA testers, product managers, ...
 
 |  | Company | Location |
 |----------|---------|----------|
+|[Product Owner: Design System & UI Infrastructure](https://mojang.workable.com/jobs/877982)|Mojang (Minecraft)|Stockholm, Sweden|
 |[UX Design Manager, Design System](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CA-San-Francisco/UX-Design-Manager--Design-System_JR-33409)|Workday|San Francisco, CA, USA|
 |[Design Director - Design Systems](https://www.compass.com/careers/?gh_jid=1406356)|Compass|New York, NY, USA|
 |[Principal Quality Engineer - Design Systems Team](https://jobs.dell.com/job/-/-/375/11298203)|Dell|Cambridge, MA, USA|
