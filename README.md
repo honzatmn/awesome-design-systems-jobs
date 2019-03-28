@@ -32,6 +32,7 @@ Awesome job opportunities for UI designers, design system leads and other design
 
 |  | Company | Location |
 |----------|---------|----------|
+|[Sr. Design Lead – Enterprise Design System (UX Architect)](https://careers.travelers.com/job/9066970/sr-design-lead-enterprise-design-system-ux-architect--hartford-ct/)|Travelers|Hartford, CT, USA|
 |[Principal Designer](https://www.skyscanner.net/jobs/job/1441976/)|Skyscanner|London, UK<br>Edinburgh, Scotland|
 |[Visual Designer – AWS Design System](https://www.amazon.jobs/en/jobs/802277/visual-designer-aws-design-system)|Amazon|Berlin, Germany|
 |[UX Designer – AWS Design System](https://www.amazon.jobs/en/jobs/802290/ux-designer-aws-design-system)|Amazon|Berlin, Germany|
@@ -66,7 +67,6 @@ Awesome opportunities for all content writers, QA testers, product managers, ...
 
 |  | Company | Location |
 |----------|---------|----------|
-|[Sr. Design Lead – Enterprise Design System (UX Architect)](https://careers.travelers.com/job/9066970/sr-design-lead-enterprise-design-system-ux-architect--hartford-ct/)|Travelers|Hartford, CT, USA|
 |[UX Design Manager, Design System](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CA-San-Francisco/UX-Design-Manager--Design-System_JR-33409)|Workday|San Francisco, CA, USA|
 |[Design Director - Design Systems](https://www.compass.com/careers/?gh_jid=1406356)|Compass|New York, NY, USA|
 |[Principal Quality Engineer - Design Systems Team](https://jobs.dell.com/job/-/-/375/11298203)|Dell|Cambridge, MA, USA|
