@@ -69,6 +69,7 @@ Awesome opportunities for all content writers, QA testers, product managers, ...
 
 |  | Company | Location |
 |----------|---------|----------|
+|[User Experience Writer](https://www.linkedin.com/jobs/view/1169024546/)|Meltwater Group|San Francisco, CA, USA|
 |[Product Owner: Design System & UI Infrastructure](https://mojang.workable.com/jobs/877982)|Mojang (Minecraft)|Stockholm, Sweden|
 |[UX Design Manager, Design System](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CA-San-Francisco/UX-Design-Manager--Design-System_JR-33409)|Workday|San Francisco, CA, USA|
 |[Design Director - Design Systems](https://www.compass.com/careers/?gh_jid=1406356)|Compass|New York, NY, USA|
