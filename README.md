@@ -60,7 +60,6 @@ Awesome job opportunities for UI designers, design system leads and other design
 |[Lead Designer, Design Systems](https://jobs.lever.co/atlassian/7f42feb8-fdfc-41ca-a83d-8fe68216a031)|Atlassian|Mountain View, CA, USA|
 |[Senior Product Designer, Platform Fabric](https://www.atlassian.com/company/careers/detail/83107944-a570-4d77-9594-2e35d2574c3c?fbclid=IwAR3UyqUWJmepR1x_wsilz5qeLItIjz_8T2SJREuuw0vCDrjOvagNoRSVS_o)|Atlassian|Sydney, Australia|
 |[Visual Designer, Design Systems](https://www.thoughtspot.com/careers-listing?gh_jid=1583698)|ThoughtSpot|Sunnyvale, CA, USA|
-|[Lead Product Designer, Design Systems](https://www.okta.com/company/careers/ux--design/product-designer-design-systems-1557504/)|Okta|San Francisco, CA, USA|
 |[Senior UX Designer, Design Systems](https://rei.jobs/careers/JobDetail/Senior-User-Experience-Designer-Design-Systems/12700)|REI Co-op|Kent, WA, USA|
 |[Senior Product Designer, Design Systems](https://www.zendesk.com/jobs/view/?job=2274399a-699a-43e9-9e3f-fa1f6d168ae2)|Zendesk|San Francisco, CA, USA|
 |[Product Designer - Visual](https://www.signalsciences.com/careers/product-designer-visual-interaction/)|Signal Sciences|Los Angeles, USA|
