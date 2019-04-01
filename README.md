@@ -33,6 +33,7 @@ Awesome job opportunities for UI designers, design system leads and other design
 
 |  | Company | Location |
 |----------|---------|----------|
+|[Senior Product Designer, Design Systems](https://turo.com/jobs/1622856)|Turo|San Francisco, CA, USA|
 |[User Experience Design Lead](https://jobs.barnardos.org.uk/jobs/vacancy/user-experience-design-lead-3190/3181/description/)|Barnardo's|London, UK|
 |[Product Design (Design Systems)](https://investisdigital.bamboohr.com/jobs/view.php?id=31)|Investis|London, UK|
 |[Product Designer (Design Systems)](https://onfido.workable.com/jobs/934643)|Onfido|London, UK|
