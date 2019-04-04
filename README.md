@@ -12,6 +12,7 @@ Awesome opportunities for UI Engineers, Front-end Engineers and other engineerin
 
 |  | Company | Location |
 |----------|---------|----------|
+|[Frontend Engineer - Design System](https://jobs.zalando.com/jobs/1538967-frontend-engineer-design-system/)|Zalando|Berlin, Germany|
 |[2020 Design Tooling Graduate Developer](https://www.atlassian.com/company/careers/detail/46c5d582-ea5f-466a-86d6-642ce6715d61)|Atlassian|Sydney, Australia|
 |[Developer - Carbon Design System](https://careers.ibm.com/ShowJob/Id/576741/Developer-Carbon-Design-System/)|IBM|Austin, TX, USA|
 |[Design System Engineer](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CA-Pleasanton/Senior-Design-System-Engineer_JR-30692)|Workday|Pleasanton, CA, USA<br>San Francisco, CA, USA|
