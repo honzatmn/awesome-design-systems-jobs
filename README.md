@@ -27,7 +27,6 @@ Awesome opportunities for UI Engineers, Front-end Engineers and other engineerin
 |[Design Systems Engineer - Mobile iOS](https://www.spotifyjobs.com/job/design-systems-engineer-mobile-ios-oqiu7fwt/)|Spotify|Stockholm, Sweden|
 |[UX Engineer](https://www.signalsciences.com/careers/ux-engineer/)|Signal Sciences| Culver City, CA, USA|
 |[Master Software Engineer (Design Systems)](https://www.capitalonecareers.com/job/richmond/master-software-engineer-design-systems/1732/11139150)|Capital One| Richmond, Virginia, USA|
-|[Sr. Web Engineer, Spectrum Design System](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Francisco/Sr-Web-Engineer--Spectrum-Design-System_69532)|Adobe| San Francisco, CA, USA<br>Seattle, DC, USA<br>Lehi, UT, USA|
 
 ## Design
 Awesome job opportunities for UI designers, design system leads and other design.
