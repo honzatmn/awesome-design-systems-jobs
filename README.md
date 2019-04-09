@@ -12,6 +12,7 @@ Awesome opportunities for UI Engineers, Front-end Engineers and other engineerin
 
 |  | Company | Location |
 |----------|---------|----------|
+|[Front End Developer](https://www.bisnode.se/om-bisnode/om-oss/karriar/front-end-developer/)|Bisnode|Stockholm, Sweden|
 |[Design System Engineer (Front-End Developer)](https://angel.co/eximchain/jobs/404593-design-system-engineer-front-end-developer)|Eximchain|Singapore<br>Remote|
 |[Frontend Engineer - Design System](https://jobs.zalando.com/jobs/1538967-frontend-engineer-design-system/)|Zalando|Berlin, Germany|
 |[2020 Design Tooling Graduate Developer](https://www.atlassian.com/company/careers/detail/46c5d582-ea5f-466a-86d6-642ce6715d61)|Atlassian|Sydney, Australia|
