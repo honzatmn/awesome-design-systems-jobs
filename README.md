@@ -26,8 +26,6 @@ Awesome opportunities for UI Engineers, Front-end Engineers and other engineerin
 |[Design Systems Engineer - Web](https://www.spotifyjobs.com/job/design-systems-engineer-web-oron9fwv/)|Spotify|Stockholm, Sweden|
 |[Design Systems Engineer - Mobile iOS](https://www.spotifyjobs.com/job/design-systems-engineer-mobile-ios-oqiu7fwt/)|Spotify|Stockholm, Sweden|
 |[UX Engineer](https://www.signalsciences.com/careers/ux-engineer/)|Signal Sciences| Culver City, CA, USA|
-|[Master Software Engineer (Design Systems)](https://www.capitalonecareers.com/job/richmond/master-software-engineer-design-systems/1732/11139150)|Capital One| Richmond, Virginia, USA|
-|[Sr. Web Engineer, Spectrum Design System](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Francisco/Sr-Web-Engineer--Spectrum-Design-System_69532)|Adobe| San Francisco, CA, USA<br>Seattle, DC, USA<br>Lehi, UT, USA|
 
 ## Design
 Awesome job opportunities for UI designers, design system leads and other design.
@@ -83,4 +81,3 @@ Awesome opportunities for all content writers, QA testers, product managers, ...
 |[Design Systems & Tech, Senior Manager](https://careers.twitter.com/en/work-for-twitter/201902/design-systems-tech-senior-manager.html)|Twitter|San Francisco, CA, USA|
 |[Group Manager - Intuit Design System](https://careers.intuit.com/job-category/2/design-and-user-experience/job/2018-6211/group-manager-intuit-design-system)|Intuit|Mountain View, California<br>San Diego, California|
 |[Design System's Content Writer](https://jobs.kiwi.com/engineering/design-systems-content-writer/)|Kiwi.com|Brno, Czech Republic<br>Prague, Czech Republic<br>Barcelona, Spain<br>Lisbon, Portugal|
-|[Manager, Design Systems](https://jobs.hilton.com/job/Manager%2C-Design-Systems/J3T7CJ6GJVZTRJ672L8)|Hilton|Memphis, TN, USA<br>Dallas, TX, USA|
