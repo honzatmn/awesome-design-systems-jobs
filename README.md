@@ -12,6 +12,7 @@ Awesome opportunities for UI Engineers, Front-end Engineers and other engineerin
 
 |  | Company | Location |
 |----------|---------|----------|
+|[Design Technologist (Android)](https://proteus.wd5.myworkdayjobs.com/en-US/Proteus/job/Redwood-City-CA/Design-Technologist_R3368716)|Proteus|Redwood City, CA, USA|
 |[Front End Developer](https://www.bisnode.se/om-bisnode/om-oss/karriar/front-end-developer/)|Bisnode|Stockholm, Sweden|
 |[Design System Engineer (Front-End Developer)](https://angel.co/eximchain/jobs/404593-design-system-engineer-front-end-developer)|Eximchain|Singapore<br>Remote|
 |[Frontend Engineer - Design System](https://jobs.zalando.com/jobs/1538967-frontend-engineer-design-system/)|Zalando|Berlin, Germany|
