@@ -34,6 +34,7 @@ Awesome job opportunities for UI designers, design system leads and other design
 
 |  | Company | Location |
 |----------|---------|----------|
+|[Senior Designer - Design Systems](https://careers.twitter.com/en/work-for-twitter/201904/senior-designer-design-systems.html)|Twitter|San Francisco, CA, USA|
 |[User Experience Designer - Design Systems](https://www.linkedin.com/jobs/view/1208744216/)|LinkedIn|San Francisco, CA, US|
 |[Lead UI Designer, Design Systems](https://boards.greenhouse.io/8451/jobs/4254634002?gh_src=16c1b5c62)|84.51°|Cincinnati, OH, USA|
 |[Sr. UI Designer, Common UI Design Systems, AMP](https://jobs.apple.com/en-us/details/200047764/sr-ui-designer-common-ui-design-systems-amp)|Apple|Cupertino, CA, USA|
