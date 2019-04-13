@@ -34,6 +34,7 @@ Awesome job opportunities for UI designers, design system leads and other design
 
 |  | Company | Location |
 |----------|---------|----------|
+|[Senior Systems Designer](https://www.framer.com/careers/senior-systems-designer)|Framer|Amsterdam, Netherlands|
 |[Senior Designer - Design Systems](https://careers.twitter.com/en/work-for-twitter/201904/senior-designer-design-systems.html)|Twitter|San Francisco, CA, USA|
 |[User Experience Designer - Design Systems](https://www.linkedin.com/jobs/view/1208744216/)|LinkedIn|San Francisco, CA, US|
 |[Lead UI Designer, Design Systems](https://boards.greenhouse.io/8451/jobs/4254634002?gh_src=16c1b5c62)|84.51°|Cincinnati, OH, USA|
