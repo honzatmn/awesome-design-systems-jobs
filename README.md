@@ -77,6 +77,7 @@ Awesome opportunities for all content writers, QA testers, product managers, ...
 
 |  | Company | Location |
 |----------|---------|----------|
+|[Design System Product Manager](https://yoobic.welcomekit.co/jobs/design-system-product-manager_london)|Yoobic|London, UK|
 |[UX Design System Director](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CA-Pleasanton/UX-Design-System-Director_JR-34610)|Workday|Pleasanton, CA, USA<br>San Francisco, CA, USA|
 |[User Experience Writer](https://www.linkedin.com/jobs/view/1169024546/)|Meltwater Group|San Francisco, CA, USA|
 |[Product Owner: Design System & UI Infrastructure](https://mojang.workable.com/jobs/877982)|Mojang (Minecraft)|Stockholm, Sweden|
