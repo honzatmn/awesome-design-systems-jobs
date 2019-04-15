@@ -12,6 +12,7 @@ Awesome opportunities for UI Engineers, Front-end Engineers and other engineerin
 
 |  | Company | Location |
 |----------|---------|----------|
+|[Software Engineer - Design System for Android](https://jobs.lever.co/ring/6c1e4fd4-8e69-4da6-8ae5-72aeb24c352b)|Ring Inc|Malvern, PA, USA|
 |[Front End Developer (Design Systems)](https://vitamintalent.com/talent/jobs/146339)|Vitamit T|Needham, MA, USA|
 |[Design Technologist (Android)](https://proteus.wd5.myworkdayjobs.com/en-US/Proteus/job/Redwood-City-CA/Design-Technologist_R3368716)|Proteus|Redwood City, CA, USA|
 |[Front End Developer](https://www.bisnode.se/om-bisnode/om-oss/karriar/front-end-developer/)|Bisnode|Stockholm, Sweden|
