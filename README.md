@@ -40,6 +40,7 @@ Awesome job opportunities for UI designers, design system leads and other design
 
 |  | Company | Location |
 |----------|---------|----------|
+|[Visual Designer, Design Systems](https://boards.greenhouse.io/chanzuckerberginitiative/jobs/1188519)|Chan Zuckerberg Initiative|Redwood City, CA, USA|
 |[Product Designer, Design Systems](https://www.flexport.com/careers/job/1631138)|Flexport|San Francisco, CA, USA|
 |[Senior Systems Designer](https://www.framer.com/careers/senior-systems-designer)|Framer|Amsterdam, Netherlands|
 |[Senior Designer - Design Systems](https://careers.twitter.com/en/work-for-twitter/201904/senior-designer-design-systems.html)|Twitter|San Francisco, CA, USA|
