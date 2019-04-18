@@ -40,6 +40,7 @@ Awesome job opportunities for UI designers, design system leads and other design
 
 |  | Company | Location |
 |----------|---------|----------|
+|[Design System Designer](https://www.etradecareers.com/job/9468539/design-system-designer-jersey-city-nj/)|E*TRADE|Jersey City, NJ, USA|
 |[Lead/Principal Visual Designer - Design Systems](https://boards.greenhouse.io/fitbit92/jobs/1432238)|Fitbit|San Francisco, CA, USA|
 |[Principal UX Designer / Design Systems Lead](https://informatica.gr8people.com/index.gp?method=cappportal.showJob&sysLayoutId=122&opportunityId=25373)|Informatica|Redwood City, CA, USA|
 |[Design Lead (Systems)](https://www.jobiak.ai/job/new-york-ny-10166/design-lead-systems-714221817)|MetLife|New York, NY, USA|
