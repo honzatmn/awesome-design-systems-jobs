@@ -30,7 +30,6 @@ Awesome opportunities for UI Engineers, Front-end Engineers and other engineerin
 |[Sr. / Lead UX Engineer, Design Systems Framework](https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Sr---Lead-UX-Engineer--Design-Systems-Framework_JR34812)|Salesforce|US Remote<br>San Francisco, CA, USA|
 |[Design Technologist](https://recruiting.ultipro.com/NAT1011NATPR/JobBoard/af823b19-a43b-4cda-b6c2-c06508d84cf6/OpportunityDetail?opportunityId=1ec3b745-6702-422f-a474-7d0c87ef0b71)|NPR|Washington DC, USA|
 |[Frontend Engineer, Dashboard & Design Systems](https://jobs.lever.co/auth0/0aaa432d-2ec2-4326-b5c2-7a728ee3d5cf)|Auth0|Remote|
-|[Creative Technologist](https://automattic.com/work-with-us/creative-technologist/)|Automattic|Remote|
 |[Senior Creative Technologist, Design Systems](https://corporate.gapinc.com/en-us/jobs/26/88/senior-creative-technologist,-design-systems)|Gap Inc.|San Francisco, CA, USA|
 |[Design Systems Engineer - Web](https://www.spotifyjobs.com/job/design-systems-engineer-web-oron9fwv/)|Spotify|Stockholm, Sweden|
 |[Design Systems Engineer - Mobile iOS](https://www.spotifyjobs.com/job/design-systems-engineer-mobile-ios-oqiu7fwt/)|Spotify|Stockholm, Sweden|
@@ -66,13 +65,11 @@ Awesome job opportunities for UI designers, design system leads and other design
 |[Product Designer, Design Systems](https://www.gotinder.com/jobs/apply?gh_jid=1542703)|Tinder|Los Angeles, CA, USA|
 |[Senior Product Designer - Design Systems](https://www.compass.com/careers/?gh_jid=1434105)|Compass|New York, NY, USA|
 |[Senior UX Design Systems](https://herodigital.com/current-openings/?gh_jid=1596045)|Hero Digital|Cupertino, CA, USA|
-|[Lead/Principal Visual Designer - Design Systems](https://www.fitbit.com/eu/careers/search#jobs/1432238)|Fitbit|San Francisco, CA, USA|
 |[Product Design Leadership, Design Systems](https://boards.greenhouse.io/gusto/jobs/978162)|Gusto|San Francisco, CA, USA|
 |[Principal Designer, UI and Design Systems](https://jobs.lever.co/grandrounds/feebde25-1196-4469-85e1-0346dbc8b493)|Grand Rounds|San Francisco, CA, USA|
 |[Product Designer, Design Systems](https://www.squarespace.com/careers/jobs/1550877)|Squarespace|New York, NY, USA|
 |[Product Designer, Design Systems - Jemstep](http://careers.invesco.com/ShowJob/Id/227833/)|Invesco|Los Altos, CA, USA|
 |[Lead Product Designer (Design Systems)](https://grnh.se/d6b9c94b1)|N26|Berlin, Germany|
-|[Product Designer, Design Systems](https://newsela.com/company/jobs/?gh_jid=1491391)|Newsela|New York, NY, USA|
 |[Principal Product Designer, Design Systems](https://jobs.libertymutualgroup.com/job/9307074/principal-product-designer-design-systems-boston-ma/)|Liberty Mutual Insurance|Boston, MA, USA|
 |[Senior or Lead Product Designer, Design Systems](https://salesforce.wd1.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Senior-or-Lead-Product-Designer--Design-Systems_JR36165-1)|Salesforce|San Francisco, CA, USA|
 |[Senior Designer - Design Systems](https://www.linkedin.com/jobs/view/1153748695/)|Sainsbury’s|London, GB|
@@ -96,7 +93,6 @@ Awesome opportunities for all content writers, QA testers, product managers, ...
 |[Design System Program Manager](https://www.linkedin.com/jobs/view/design-system-program-manager-at-autodesk-1211210996/)|Autodesk|San Francisco, CA, USA|
 |[Design System Product Manager](https://yoobic.welcomekit.co/jobs/design-system-product-manager_london)|Yoobic|London, UK|
 |[UX Design System Director](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CA-Pleasanton/UX-Design-System-Director_JR-34610)|Workday|Pleasanton, CA, USA<br>San Francisco, CA, USA|
-|[User Experience Writer](https://www.linkedin.com/jobs/view/1169024546/)|Meltwater Group|San Francisco, CA, USA|
 |[Product Owner: Design System & UI Infrastructure](https://mojang.workable.com/jobs/877982)|Mojang (Minecraft)|Stockholm, Sweden|
 |[UX Design Manager, Design System](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CA-San-Francisco/UX-Design-Manager--Design-System_JR-33409)|Workday|San Francisco, CA, USA|
 |[Design Director - Design Systems](https://www.compass.com/careers/?gh_jid=1406356)|Compass|New York, NY, USA|
