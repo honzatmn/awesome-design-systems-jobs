@@ -61,7 +61,6 @@ Awesome job opportunities for UI designers, design system leads and other design
 |[Lead UI Designer, Design Systems](https://boards.greenhouse.io/8451/jobs/4254634002?gh_src=16c1b5c62)|84.51°|Cincinnati, OH, USA|
 |[Sr. UI Designer, Common UI Design Systems, AMP](https://jobs.apple.com/en-us/details/200047764/sr-ui-designer-common-ui-design-systems-amp)|Apple|Cupertino, CA, USA|
 |[Senior Product Designer, Design Systems](https://turo.com/jobs/1622856)|Turo|San Francisco, CA, USA|
-|[User Experience Design Lead](https://jobs.barnardos.org.uk/jobs/vacancy/user-experience-design-lead-3190/3181/description/)|Barnardo's|London, UK|
 |[Product Design (Design Systems)](https://investisdigital.bamboohr.com/jobs/view.php?id=31)|Investis|London, UK|
 |[Product Designer (Design Systems)](https://onfido.workable.com/jobs/934643)|Onfido|London, UK|
 |[Systems Designer](https://jobs.apple.com/en-us/details/114352513/systems-designer)|Apple|Cupertino, CA, USA|
