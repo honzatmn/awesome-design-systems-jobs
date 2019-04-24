@@ -45,6 +45,7 @@ Awesome job opportunities for UI designers, design system leads and other design
 
 |  | Company | Location |
 |----------|---------|----------|
+|⚡[UX Designer – Design Systems](https://jobs.adp.com/job/9478068/ux-designer-design-systems-new-york-ny/)|ADP|New York, NY, USA|
 |⚡[Senior UI/UX Designer](https://jobs.lever.co/twitch/598ab72d-4130-45cf-b614-25dba19ee170)|Twitch|San Francisco, CA, USA<br>Irvine, CA, USA|
 |⚡[UX Designer - Design Systems](http://lifion.com/jobs/hros-platform/uxdesigner-design-systems)|Lifion|New York, NY, USA|
 |⚡[UX Designer - Design Systems](https://jobsearch.paypal-corp.com/en-US/job/ux-designer-design-systems/J3S0H372BFHG2XLWNPV)|PayPal|San Jose, CA, USA|
