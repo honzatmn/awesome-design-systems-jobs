@@ -70,7 +70,6 @@ Awesome job opportunities for UI designers, design system leads and other design
 |[Product Design (Design Systems)](https://investisdigital.bamboohr.com/jobs/view.php?id=31)|Investis|London, UK|
 |[Product Designer (Design Systems)](https://onfido.workable.com/jobs/934643)|Onfido|London, UK|
 |[Systems Designer](https://jobs.apple.com/en-us/details/114352513/systems-designer)|Apple|Cupertino, CA, USA|
-|[Sr. Design Lead – Enterprise Design System (UX Architect)](https://careers.travelers.com/job/9066970/sr-design-lead-enterprise-design-system-ux-architect--hartford-ct/)|Travelers|Hartford, CT, USA|
 |[Visual Designer – AWS Design System](https://www.amazon.jobs/en/jobs/802277/visual-designer-aws-design-system)|Amazon|Berlin, Germany|
 |[UX Designer – AWS Design System](https://www.amazon.jobs/en/jobs/802290/ux-designer-aws-design-system)|Amazon|Berlin, Germany|
 |[Mobile Product Designer - Design System](https://jobs.zalando.com/jobs/1187695-mobile-product-designer-design-system/)|Zalando|Berlin, Germany|
