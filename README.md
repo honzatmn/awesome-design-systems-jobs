@@ -45,6 +45,7 @@ Awesome job opportunities for UI designers, design system leads and other design
 
 |  | Company | Location |
 |----------|---------|----------|
+|⚡[Sr. Product Designer, UI and Design Systems](https://www.smartrecruiters.com/ancestry/743999686933198)|Ancestry|San Francisco, CA, USA|
 |⚡[Design Lead, UI and Design Systems](https://jobs.lever.co/grandrounds/feebde25-1196-4469-85e1-0346dbc8b493)|Grand Rounds|San Francisco, CA, USA|
 |⚡[UX Designer – Design Systems](https://jobs.adp.com/job/9478068/ux-designer-design-systems-new-york-ny/)|ADP|New York, NY, USA|
 |⚡[Senior UI/UX Designer](https://jobs.lever.co/twitch/598ab72d-4130-45cf-b614-25dba19ee170)|Twitch|San Francisco, CA, USA<br>Irvine, CA, USA|
