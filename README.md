@@ -50,7 +50,6 @@ Awesome job opportunities for UI designers, design system leads and other design
 |⚡[Design Lead, UI and Design Systems](https://jobs.lever.co/grandrounds/feebde25-1196-4469-85e1-0346dbc8b493)|Grand Rounds|San Francisco, CA, USA|
 |⚡[UX Designer – Design Systems](https://jobs.adp.com/job/9478068/ux-designer-design-systems-new-york-ny/)|ADP|New York, NY, USA|
 |⚡[Senior UI/UX Designer](https://jobs.lever.co/twitch/598ab72d-4130-45cf-b614-25dba19ee170)|Twitch|San Francisco, CA, USA<br>Irvine, CA, USA|
-|⚡[UX Designer - Design Systems](http://lifion.com/jobs/hros-platform/uxdesigner-design-systems)|Lifion|New York, NY, USA|
 |⚡[UX Designer - Design Systems](https://jobsearch.paypal-corp.com/en-US/job/ux-designer-design-systems/J3S0H372BFHG2XLWNPV)|PayPal|San Jose, CA, USA|
 |⚡[Design System Designer](https://www.etradecareers.com/job/9468539/design-system-designer-jersey-city-nj/)|E*TRADE|Jersey City, NJ, USA|
 |⚡[Lead/Principal Visual Designer - Design Systems](https://boards.greenhouse.io/fitbit92/jobs/1432238)|Fitbit|San Francisco, CA, USA|
@@ -70,7 +69,6 @@ Awesome job opportunities for UI designers, design system leads and other design
 |[Product Design (Design Systems)](https://investisdigital.bamboohr.com/jobs/view.php?id=31)|Investis|London, UK|
 |[Product Designer (Design Systems)](https://onfido.workable.com/jobs/934643)|Onfido|London, UK|
 |[Systems Designer](https://jobs.apple.com/en-us/details/114352513/systems-designer)|Apple|Cupertino, CA, USA|
-|[Sr. Design Lead – Enterprise Design System (UX Architect)](https://careers.travelers.com/job/9066970/sr-design-lead-enterprise-design-system-ux-architect--hartford-ct/)|Travelers|Hartford, CT, USA|
 |[Visual Designer – AWS Design System](https://www.amazon.jobs/en/jobs/802277/visual-designer-aws-design-system)|Amazon|Berlin, Germany|
 |[UX Designer – AWS Design System](https://www.amazon.jobs/en/jobs/802290/ux-designer-aws-design-system)|Amazon|Berlin, Germany|
 |[Mobile Product Designer - Design System](https://jobs.zalando.com/jobs/1187695-mobile-product-designer-design-system/)|Zalando|Berlin, Germany|
@@ -79,7 +77,6 @@ Awesome job opportunities for UI designers, design system leads and other design
 |[Senior Product Designer - Design Systems](https://www.compass.com/careers/?gh_jid=1434105)|Compass|New York, NY, USA|
 |[Senior UX Design Systems](https://herodigital.com/current-openings/?gh_jid=1596045)|Hero Digital|Cupertino, CA, USA|
 |[Product Design Leadership, Design Systems](https://boards.greenhouse.io/gusto/jobs/978162)|Gusto|San Francisco, CA, USA|
-|[Principal Designer, UI and Design Systems](https://jobs.lever.co/grandrounds/feebde25-1196-4469-85e1-0346dbc8b493)|Grand Rounds|San Francisco, CA, USA|
 |[Product Designer, Design Systems](https://www.squarespace.com/careers/jobs/1550877)|Squarespace|New York, NY, USA|
 |[Product Designer, Design Systems - Jemstep](http://careers.invesco.com/ShowJob/Id/227833/)|Invesco|Los Altos, CA, USA|
 |[Lead Product Designer (Design Systems)](https://grnh.se/d6b9c94b1)|N26|Berlin, Germany|
