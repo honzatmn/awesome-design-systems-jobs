@@ -51,10 +51,10 @@ Awesome job opportunities for UI designers, design system leads and other design
 |⚡[Design Lead, UI and Design Systems](https://jobs.lever.co/grandrounds/feebde25-1196-4469-85e1-0346dbc8b493)|Grand Rounds|San Francisco, CA, USA|
 |⚡[UX Designer – Design Systems](https://jobs.adp.com/job/9478068/ux-designer-design-systems-new-york-ny/)|ADP|New York, NY, USA|
 |⚡[Senior UI/UX Designer](https://jobs.lever.co/twitch/598ab72d-4130-45cf-b614-25dba19ee170)|Twitch|San Francisco, CA, USA<br>Irvine, CA, USA|
-|⚡[UX Designer - Design Systems](https://jobsearch.paypal-corp.com/en-US/job/ux-designer-design-systems/J3S0H372BFHG2XLWNPV)|PayPal|San Jose, CA, USA|
-|⚡[Design System Designer](https://www.etradecareers.com/job/9468539/design-system-designer-jersey-city-nj/)|E*TRADE|Jersey City, NJ, USA|
-|⚡[Lead/Principal Visual Designer - Design Systems](https://boards.greenhouse.io/fitbit92/jobs/1432238)|Fitbit|San Francisco, CA, USA|
-|⚡[Principal UX Designer / Design Systems Lead](https://informatica.gr8people.com/index.gp?method=cappportal.showJob&sysLayoutId=122&opportunityId=25373)|Informatica|Redwood City, CA, USA|
+|[UX Designer - Design Systems](https://jobsearch.paypal-corp.com/en-US/job/ux-designer-design-systems/J3S0H372BFHG2XLWNPV)|PayPal|San Jose, CA, USA|
+|[Design System Designer](https://www.etradecareers.com/job/9468539/design-system-designer-jersey-city-nj/)|E*TRADE|Jersey City, NJ, USA|
+|[Lead/Principal Visual Designer - Design Systems](https://boards.greenhouse.io/fitbit92/jobs/1432238)|Fitbit|San Francisco, CA, USA|
+|[Principal UX Designer / Design Systems Lead](https://informatica.gr8people.com/index.gp?method=cappportal.showJob&sysLayoutId=122&opportunityId=25373)|Informatica|Redwood City, CA, USA|
 |[Design Lead (Systems)](https://www.jobiak.ai/job/new-york-ny-10166/design-lead-systems-714221817)|MetLife|New York, NY, USA|
 |[Senior UX/UI Designer - Design System & Visual Experience](https://jobs.jobvite.com/servicenow/job/otRW8fw8)|ServiceNow|San Diego, CA, USA|
 |[Sr. UX Design System Developer](https://www.linkedin.com/jobs/view/sr-ux-design-system-developer-at-f5-networks-1118352858/)|F5 Networks|Seattle, WA, US|
@@ -101,7 +101,7 @@ Awesome opportunities for all content writers, QA testers, product managers, ...
 |  | Company | Location |
 |----------|---------|----------|
 |⚡[Director, Design Systems](https://www.verizon.com/about/work/jobs/3918338-director-design-systems)|Verizon|New York, NY, USA|
-|⚡[Product Manager – Design Language System](https://www.spotifyjobs.com/job/product-manager-design-language-systems-o73g9fwj/)|Spotify|Stockholm, Sweden|
+|[Product Manager – Design Language System](https://www.spotifyjobs.com/job/product-manager-design-language-systems-o73g9fwj/)|Spotify|Stockholm, Sweden|
 |[Product Manager, Design Language System](https://careers.airbnb.com/positions/1436390/)|Airbnb|San Francisco, CA, USA|
 |[Sr. Content Strategist, Spectrum Design System](https://www.linkedin.com/jobs/view/sr-content-strategist-spectrum-design-system-at-adobe-1173624104/)|Adobe|San Francisco, CA, USA|
 |[Product Design Manager (Design Systems and Operations)](https://jobs.disneycareers.com/job/new-york/product-design-manager-design-systems-and-operations/391/11250720)|Disney|New York, NY, USA|
