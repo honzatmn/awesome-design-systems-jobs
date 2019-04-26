@@ -46,6 +46,7 @@ Awesome job opportunities for UI designers, design system leads and other design
 
 |  | Company | Location |
 |----------|---------|----------|
+|⚡[Senior Product Designer, Publishing (Design systems)](https://nytimes.wd5.myworkdayjobs.com/en-US/NYT/job/New-York-NY/Senior-Product-Designer--Publishing-Tools_REQ-004413-1)|NY Times|New York, NY, USA|
 |⚡[Sr. Product Designer, UI and Design Systems](https://www.smartrecruiters.com/ancestry/743999686933198)|Ancestry|San Francisco, CA, USA|
 |⚡[Design Lead, UI and Design Systems](https://jobs.lever.co/grandrounds/feebde25-1196-4469-85e1-0346dbc8b493)|Grand Rounds|San Francisco, CA, USA|
 |⚡[UX Designer – Design Systems](https://jobs.adp.com/job/9478068/ux-designer-design-systems-new-york-ny/)|ADP|New York, NY, USA|
