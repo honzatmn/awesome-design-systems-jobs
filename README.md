@@ -109,7 +109,6 @@ Awesome opportunities for all content writers, QA testers, product managers, ...
 |[Design System Program Manager](https://www.linkedin.com/jobs/view/design-system-program-manager-at-autodesk-1211210996/)|Autodesk|San Francisco, CA, USA|
 |[Design System Product Manager](https://yoobic.welcomekit.co/jobs/design-system-product-manager_london)|Yoobic|London, UK|
 |[UX Design System Director](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CA-Pleasanton/UX-Design-System-Director_JR-34610)|Workday|Pleasanton, CA, USA<br>San Francisco, CA, USA|
-|[Product Owner: Design System & UI Infrastructure](https://mojang.workable.com/jobs/877982)|Mojang (Minecraft)|Stockholm, Sweden|
 |[UX Design Manager, Design System](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CA-San-Francisco/UX-Design-Manager--Design-System_JR-33409)|Workday|San Francisco, CA, USA|
 |[Design Director - Design Systems](https://www.compass.com/careers/?gh_jid=1406356)|Compass|New York, NY, USA|
 |[Principal Quality Engineer - Design Systems Team](https://jobs.dell.com/job/-/-/375/11298203)|Dell|Cambridge, MA, USA|
