@@ -113,5 +113,4 @@ Awesome opportunities for all content writers, QA testers, product managers, ...
 |[UX Design Manager, Design System](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CA-San-Francisco/UX-Design-Manager--Design-System_JR-33409)|Workday|San Francisco, CA, USA|
 |[Design Director - Design Systems](https://www.compass.com/careers/?gh_jid=1406356)|Compass|New York, NY, USA|
 |[Principal Quality Engineer - Design Systems Team](https://jobs.dell.com/job/-/-/375/11298203)|Dell|Cambridge, MA, USA|
-|[Group Manager - Intuit Design System](https://careers.intuit.com/job-category/2/design-and-user-experience/job/2018-6211/group-manager-intuit-design-system)|Intuit|Mountain View, California<br>San Diego, California|
 |[Design System's Content Writer](https://jobs.kiwi.com/engineering/design-systems-content-writer/)|Kiwi.com|Brno, Czech Republic<br>Prague, Czech Republic<br>Barcelona, Spain<br>Lisbon, Portugal|
