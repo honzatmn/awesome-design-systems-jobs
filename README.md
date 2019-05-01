@@ -85,7 +85,6 @@ Awesome job opportunities for UI designers, design system leads and other design
 |[Product Designer, Design Systems - Jemstep](http://careers.invesco.com/ShowJob/Id/227833/)|Invesco|Los Altos, CA, USA|
 |[Lead Product Designer (Design Systems)](https://grnh.se/d6b9c94b1)|N26|Berlin, Germany|
 |[Principal Product Designer, Design Systems](https://jobs.libertymutualgroup.com/job/9307074/principal-product-designer-design-systems-boston-ma/)|Liberty Mutual Insurance|Boston, MA, USA|
-|[Senior Designer - Design Systems](https://www.linkedin.com/jobs/view/1153748695/)|Sainsbury’s|London, GB|
 |[Experience Designer – Commercial Design Systems](https://commercialbank.design/job/experience-designer-commercial-design-systems/)|Capital One|New York, NY, USA|
 |[Visual Designer, Design Systems](https://grnh.se/44b756c41)|SurveyMonkey|San Mateo, CA, USA|
 |[Lead Designer, Design Systems](https://jobs.lever.co/atlassian/7f42feb8-fdfc-41ca-a83d-8fe68216a031)|Atlassian|Mountain View, CA, USA|
