@@ -47,6 +47,7 @@ Awesome job opportunities for UI designers, design system leads and other design
 
 |  | Company | Location |
 |----------|---------|----------|
+|⚡[Design System Visual Designer](https://jobs.cisco.com/jobs/ProjectDetail/Design-System-Visual-Designer/1261352)|Cisco Systems|Milpitas, CA, USA|
 |⚡[Design Systems Lead](https://careers.asurion.com/job/product-pro01180/)|Asurion|San Mateo, CA, USA|
 |⚡[Systems Designer](https://sapient.avature.net/careers/JobDetail/New-York-New-York-United-States-Systems-Designer/53092)|Publicis Sapient|New York, NY, USA|
 |⚡[UI Designer - Esri Design System](https://www.esri.com/en-us/about/careers/job-detail?req=10809)|Esri|Redlands, CA, USA<br>Portland, OR, USA|
@@ -100,6 +101,7 @@ Awesome opportunities for all content writers, QA testers, product managers, ...
 
 |  | Company | Location |
 |----------|---------|----------|
+|⚡[Manager, Design Systems](https://jobs.hilton.com/job/Manager%2C-Design-Systems/J3T7CJ6GJVZTRJ672L8)|Hilton|Memphis, TN, USA<br>Dallas, TX, USA|
 |⚡[Director, Design Systems](https://www.verizon.com/about/work/jobs/3918338-director-design-systems)|Verizon|New York, NY, USA|
 |[Product Manager – Design Language System](https://www.spotifyjobs.com/job/product-manager-design-language-systems-o73g9fwj/)|Spotify|Stockholm, Sweden|
 |[Product Manager, Design Language System](https://careers.airbnb.com/positions/1436390/)|Airbnb|San Francisco, CA, USA|
