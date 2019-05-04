@@ -29,7 +29,8 @@ const StyledList = styled.aside`
 `
 
 const Layout = ({ children, location }) => {
-  const [state, setState] = useState(location.pathname)
+  const defaultLocation = location && location.pathname ? location.pathname : null
+  const [state, setState] = useState(defaultLocation)
   const sorry = name => {
     window.history.pushState({ urlPath: name }, "", name)
     setState(name)

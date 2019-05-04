@@ -26,6 +26,20 @@ module.exports = {
               maxWidth: 590,
             },
           },
+          {
+            resolve: `gatsby-transformer-remark`,
+            options: {
+              plugins: [
+                {
+                  resolve: "gatsby-remark-external-links",
+                  options: {
+                    target: "_blank",
+                    rel: "noopener noreferrer",
+                  },
+                },
+              ],
+            },
+          },
           `gatsby-remark-copy-linked-files`,
         ],
       },
@@ -41,7 +55,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        //trackingId: `ADD YOUR TRACKING ID HERE`,
+        // trackingId: `ADD YOUR TRACKING ID HERE`,
       },
     },
     `gatsby-plugin-feed`,
@@ -54,7 +68,7 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        //icon: `content/assets/gatsby-icon.png`,
+        // icon: `content/assets/gatsby-icon.png`,
       },
     },
     `gatsby-plugin-offline`,
