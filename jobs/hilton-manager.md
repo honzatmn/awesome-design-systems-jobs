@@ -1,5 +1,5 @@
 ---
-date: "2019-05-03"
+date: "2019-05-01"
 title: "Manager, Design Systems"
 company: "Hilton"
 link: "https://jobs.hilton.com/job/Manager%2C-Design-Systems/J3T7CJ6GJVZTRJ672L8"
