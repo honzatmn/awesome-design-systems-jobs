@@ -6,12 +6,12 @@ import SEO from "../components/seo"
 
 class BlogIndex extends React.Component {
   render() {
-    const { data } = this.props
+    const { data, location } = this.props
     const siteTitle = data.site.siteMetadata.title
     const posts = data.allMarkdownRemark.edges
 
     return (
-      <Layout location={this.props.location} title={siteTitle}>
+      <Layout location={location} title={siteTitle}>
         {posts.map(({ node }) => {
           const title = node.frontmatter.title || node.fields.slug
           return (
