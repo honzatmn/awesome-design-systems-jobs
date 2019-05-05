@@ -62,7 +62,6 @@ Awesome job opportunities for UI designers, design system leads and other design
 |[Lead/Principal Visual Designer - Design Systems](https://boards.greenhouse.io/fitbit92/jobs/1432238)|Fitbit|San Francisco, CA, USA|
 |[Principal UX Designer / Design Systems Lead](https://informatica.gr8people.com/index.gp?method=cappportal.showJob&sysLayoutId=122&opportunityId=25373)|Informatica|Redwood City, CA, USA|
 |[Design Lead (Systems)](https://www.jobiak.ai/job/new-york-ny-10166/design-lead-systems-714221817)|MetLife|New York, NY, USA|
-|[Senior UX/UI Designer - Design System & Visual Experience](https://jobs.jobvite.com/servicenow/job/otRW8fw8)|ServiceNow|San Diego, CA, USA|
 |[Sr. UX Design System Developer](https://www.linkedin.com/jobs/view/sr-ux-design-system-developer-at-f5-networks-1118352858/)|F5 Networks|Seattle, WA, US|
 |[Principal Designer - UI and Design Systems](https://www.smartrecruiters.com/ancestry/743999686704737)|Ancestry|San Francisco, CA, USA|
 |[UX Designer II - Design Systems](https://jobs.cisco.com/jobs/ProjectDetail/UX-Designer-II-Design-Systems/1255949)|Cisco|San Jose, CA, USA|
