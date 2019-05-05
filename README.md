@@ -15,9 +15,9 @@ Awesome opportunities for UI Engineers, Front-end Engineers and other engineerin
 |  | Company | Location |
 |----------|---------|----------|
 |⚡[Senior Frontend Engineer, System Design](https://www.wayfaircareers.com/jobs/o0jz9fwL)|Wayfair|Boston, MA, USA|
-|⚡[Sr. UX Front End Development Lead](https://www.signifyhealth.com/careers-corporate)|Signify Health|Dallas, TX, USA|
-|⚡[Senior Front End Engineer (Design Systems)](https://www.capitalonecareers.com/job/richmond/senior-front-end-engineer-design-systems/1732/11627524)|Capital One|Richmond, VA, USA|
-|⚡[Principal Developer - Design Systems Team](https://jobs.dell.com/job/cambridge/principal-developer-design-systems-team/375/11298204)|Dell|Cambridge, MA, USA|
+|[Sr. UX Front End Development Lead](https://www.signifyhealth.com/careers-corporate)|Signify Health|Dallas, TX, USA|
+|[Senior Front End Engineer (Design Systems)](https://www.capitalonecareers.com/job/richmond/senior-front-end-engineer-design-systems/1732/11627524)|Capital One|Richmond, VA, USA|
+|[Principal Developer - Design Systems Team](https://jobs.dell.com/job/cambridge/principal-developer-design-systems-team/375/11298204)|Dell|Cambridge, MA, USA|
 |[Design System Developer](https://www.linkedin.com/jobs/view/design-system-developer-at-banner-health-1227842510/)|Banner Health|Phoenix, AZ, USA|
 |[Sr. UI Engineer](https://cbre.referrals.selectminds.com/jobs/sr-ui-engineer-45552)|CBRE|New York, NY, USA|
 |[Senior Frontend Software Engineer, Design Systems](https://www.etsy.com/careers/job/139be11f-de4c-4bf5-82ee-d1de4a630d92)|Etsy|New York, NY, USA|
@@ -50,10 +50,10 @@ Awesome job opportunities for UI designers, design system leads and other design
 |⚡[Design System Visual Designer](https://jobs.cisco.com/jobs/ProjectDetail/Design-System-Visual-Designer/1261352)|Cisco Systems|Milpitas, CA, USA|
 |⚡[Systems Designer](https://sapient.avature.net/careers/JobDetail/New-York-New-York-United-States-Systems-Designer/53092)|Publicis Sapient|New York, NY, USA|
 |⚡[UI Designer - Esri Design System](https://www.esri.com/en-us/about/careers/job-detail?req=10809)|Esri|Redlands, CA, USA<br>Portland, OR, USA|
-|⚡[Senior Product Designer, Publishing (Design systems)](https://nytimes.wd5.myworkdayjobs.com/en-US/NYT/job/New-York-NY/Senior-Product-Designer--Publishing-Tools_REQ-004413-1)|NY Times|New York, NY, USA|
-|⚡[Sr. Product Designer, UI and Design Systems](https://www.smartrecruiters.com/ancestry/743999686933198)|Ancestry|San Francisco, CA, USA|
-|⚡[Design Lead, UI and Design Systems](https://jobs.lever.co/grandrounds/feebde25-1196-4469-85e1-0346dbc8b493)|Grand Rounds|San Francisco, CA, USA|
-|⚡[UX Designer – Design Systems](https://jobs.adp.com/job/9478068/ux-designer-design-systems-new-york-ny/)|ADP|New York, NY, USA|
+|[Senior Product Designer, Publishing (Design systems)](https://nytimes.wd5.myworkdayjobs.com/en-US/NYT/job/New-York-NY/Senior-Product-Designer--Publishing-Tools_REQ-004413-1)|NY Times|New York, NY, USA|
+|[Sr. Product Designer, UI and Design Systems](https://www.smartrecruiters.com/ancestry/743999686933198)|Ancestry|San Francisco, CA, USA|
+|[Design Lead, UI and Design Systems](https://jobs.lever.co/grandrounds/feebde25-1196-4469-85e1-0346dbc8b493)|Grand Rounds|San Francisco, CA, USA|
+|[UX Designer – Design Systems](https://jobs.adp.com/job/9478068/ux-designer-design-systems-new-york-ny/)|ADP|New York, NY, USA|
 |[Senior UI/UX Designer](https://jobs.lever.co/twitch/598ab72d-4130-45cf-b614-25dba19ee170)|Twitch|San Francisco, CA, USA<br>Irvine, CA, USA|
 |[UX Designer - Design Systems](https://jobsearch.paypal-corp.com/en-US/job/ux-designer-design-systems/J3S0H372BFHG2XLWNPV)|PayPal|San Jose, CA, USA|
 |[Design System Designer](https://www.etradecareers.com/job/9468539/design-system-designer-jersey-city-nj/)|E*TRADE|Jersey City, NJ, USA|
