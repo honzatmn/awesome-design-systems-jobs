@@ -15,7 +15,7 @@ Awesome opportunities for UI Engineers, Front-end Engineers and other engineerin
 |  | Company | Location |
 |----------|---------|----------|
 |⚡[Senior Frontend Engineer, System Design](https://www.wayfaircareers.com/jobs/o0jz9fwL)|Wayfair|Boston, MA, USA|
-|[Sr. UX Front End Development Lead](https://www.signifyhealth.com/careers-corporate)|Signify Health|Dallas, TX, USA|
+|⚡[Sr. UX Front End Development Lead](https://www.signifyhealth.com/careers-corporate)|Signify Health|Dallas, TX, USA|
 |[Senior Front End Engineer (Design Systems)](https://www.capitalonecareers.com/job/richmond/senior-front-end-engineer-design-systems/1732/11627524)|Capital One|Richmond, VA, USA|
 |[Principal Developer - Design Systems Team](https://jobs.dell.com/job/cambridge/principal-developer-design-systems-team/375/11298204)|Dell|Cambridge, MA, USA|
 |[Design System Developer](https://www.linkedin.com/jobs/view/design-system-developer-at-banner-health-1227842510/)|Banner Health|Phoenix, AZ, USA|
@@ -100,7 +100,7 @@ Awesome opportunities for all content writers, QA testers, product managers, ...
 |  | Company | Location |
 |----------|---------|----------|
 |⚡[Manager, Design Systems](https://jobs.hilton.com/job/Manager%2C-Design-Systems/J3T7CJ6GJVZTRJ672L8)|Hilton|Memphis, TN, USA<br>Dallas, TX, USA|
-|⚡[Director, Design Systems](https://www.verizon.com/about/work/jobs/3918338-director-design-systems)|Verizon|New York, NY, USA|
+|[Director, Design Systems](https://www.verizon.com/about/work/jobs/3918338-director-design-systems)|Verizon|New York, NY, USA|
 |[Product Manager – Design Language System](https://www.spotifyjobs.com/job/product-manager-design-language-systems-o73g9fwj/)|Spotify|Stockholm, Sweden|
 |[Product Manager, Design Language System](https://careers.airbnb.com/positions/1436390/)|Airbnb|San Francisco, CA, USA|
 |[Sr. Content Strategist, Spectrum Design System](https://www.linkedin.com/jobs/view/sr-content-strategist-spectrum-design-system-at-adobe-1173624104/)|Adobe|San Francisco, CA, USA|
