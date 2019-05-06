@@ -49,6 +49,7 @@ Awesome job opportunities for UI designers, design system leads and other design
 
 |  | Company | Location |
 |----------|---------|----------|
+|⚡[Senior Product Designer, Design Systems](http://jobs.jobvite.com/sofi/job/ocIn8fw9)|SoFi|San Francisco, CA, USA|
 |⚡[UI Designer, Design System](https://www.bill.com/about-us/careers/jobs/?p=job%2FoXV19fwM)|Bill.com|Palo Alto, CA, USA|
 |⚡[Design System Visual Designer](https://jobs.cisco.com/jobs/ProjectDetail/Design-System-Visual-Designer/1261352)|Cisco Systems|Milpitas, CA, USA|
 |⚡[Systems Designer](https://sapient.avature.net/careers/JobDetail/New-York-New-York-United-States-Systems-Designer/53092)|Publicis Sapient|New York, NY, USA|
