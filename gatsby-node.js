@@ -8,7 +8,7 @@ const createSlug = (title, company) => `/${kebabCase(`${title} at ${company}`)}/
 exports.createPages = ({ graphql, actions }) => {
   const { createPage } = actions
 
-  const blogPost = path.resolve(`./src/pages/index.js`)
+  const position = path.resolve(`./src/components/Position/index.js`)
   return graphql(
     `
       {
@@ -42,7 +42,7 @@ exports.createPages = ({ graphql, actions }) => {
       // company-title
       createPage({
         path: slug,
-        component: blogPost,
+        component: position,
         context: {
           slug,
           previous,

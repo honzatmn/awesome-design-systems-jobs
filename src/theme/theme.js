@@ -14,6 +14,7 @@ const theme = {
     },
     highlight: "#ffef32",
   },
+  fontFamily: "Khula",
 }
 
 export default theme
