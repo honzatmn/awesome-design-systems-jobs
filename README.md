@@ -118,3 +118,6 @@ Awesome opportunities for all content writers, QA testers, product managers, ...
 |[UX Design Manager, Design System](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CA-San-Francisco/UX-Design-Manager--Design-System_JR-33409)|Workday|San Francisco, CA, USA|
 |[Design Director - Design Systems](https://www.compass.com/careers/?gh_jid=1406356)|Compass|New York, NY, USA|
 |[Principal Quality Engineer - Design Systems Team](https://jobs.dell.com/job/-/-/375/11298203)|Dell|Cambridge, MA, USA|
+
+## Follow new jobs on Twitter
+We also publish all new jobs on [Twitter](https://twitter.com/designsysjobs), to be more inclusive to other roles who are not super familiar with Github. [Follow us on Twitter](https://twitter.com/designsysjobs)
