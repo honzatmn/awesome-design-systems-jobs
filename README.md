@@ -14,15 +14,15 @@ Awesome opportunities for UI Engineers, Front-end Engineers and other engineerin
 
 |  | Company | Location |
 |----------|---------|----------|
+|⚡[Front End Engineer](https://recruiting.ultipro.com/usg1006/JobBoard/dfc53730-57d1-3460-336f-ddafabd108f3/OpportunityDetail?opportunityId=eb1f90bb-d4d9-4536-bacb-5987ee4ee999)|Ultimate Software|Toronto, Canada<br>Ft. Lauderdale, FL, USA|
 |⚡[React Developer - Global Design](https://clear-score.workable.com/jobs/572476)|ClearScore|London, UK|
 |⚡[UX Engineer, Design System](https://www.bill.com/about-us/careers/jobs/?p=job%2Fo5G09fwE)|Bill.com|Palo Alto, CA, USA<br>Remote, US|
-|⚡[Senior Frontend Engineer, System Design](https://www.wayfaircareers.com/jobs/o0jz9fwL)|Wayfair|Boston, MA, USA|
-|⚡[Sr. UX Front End Development Lead](https://www.signifyhealth.com/careers-corporate)|Signify Health|Dallas, TX, USA|
+|[Senior Frontend Engineer, System Design](https://www.wayfaircareers.com/jobs/o0jz9fwL)|Wayfair|Boston, MA, USA|
 |[Senior Front End Engineer (Design Systems)](https://www.capitalonecareers.com/job/richmond/senior-front-end-engineer-design-systems/1732/11627524)|Capital One|Richmond, VA, USA|
 |[Principal Developer - Design Systems Team](https://jobs.dell.com/job/cambridge/principal-developer-design-systems-team/375/11298204)|Dell|Cambridge, MA, USA|
 |[Design System Developer](https://www.linkedin.com/jobs/view/design-system-developer-at-banner-health-1227842510/)|Banner Health|Phoenix, AZ, USA|
 |[Sr. UI Engineer](https://cbre.referrals.selectminds.com/jobs/sr-ui-engineer-45552)|CBRE|New York, NY, USA|
-|[Senior Frontend Software Engineer, Design Systems](https://www.etsy.com/careers/job/139be11f-de4c-4bf5-82ee-d1de4a630d92)|Etsy|New York, NY, USA|
+|[Senior Frontend Software Engineer, Design Systems](https://www.etsy.com/careers/job/139be11f-de4c-4bf5-82ee-d1de4a630d92)|Etsy|Remote|
 |[Frontend Engineer, Design Systems](https://www.flexport.com/careers/job/541800)|Flexport|San Francisco, CA, USA|
 |[Software Engineer - Design System for iOS](https://jobs.lever.co/ring/4df29132-e9ba-4f79-9353-91514f77ddce)|Ring Inc|Malvern, PA, USA|
 |[Software Engineer - Design System for Android](https://jobs.lever.co/ring/6c1e4fd4-8e69-4da6-8ae5-72aeb24c352b)|Ring Inc|Malvern, PA, USA|
@@ -51,9 +51,8 @@ Awesome job opportunities for UI designers, design system leads and other design
 |----------|---------|----------|
 |⚡[Senior Product Designer, Design Systems](http://jobs.jobvite.com/sofi/job/ocIn8fw9)|SoFi|San Francisco, CA, USA|
 |⚡[UI Designer, Design System](https://www.bill.com/about-us/careers/jobs/?p=job%2FoXV19fwM)|Bill.com|Palo Alto, CA, USA|
-|⚡[Design System Visual Designer](https://jobs.cisco.com/jobs/ProjectDetail/Design-System-Visual-Designer/1261352)|Cisco Systems|Milpitas, CA, USA|
-|⚡[Systems Designer](https://sapient.avature.net/careers/JobDetail/New-York-New-York-United-States-Systems-Designer/53092)|Publicis Sapient|New York, NY, USA|
-|⚡[UI Designer - Esri Design System](https://www.esri.com/en-us/about/careers/job-detail?req=10809)|Esri|Redlands, CA, USA<br>Portland, OR, USA|
+|[Design System Visual Designer](https://jobs.cisco.com/jobs/ProjectDetail/Design-System-Visual-Designer/1261352)|Cisco Systems|Milpitas, CA, USA|
+|[UI Designer - Esri Design System](https://www.esri.com/en-us/about/careers/job-detail?req=10809)|Esri|Redlands, CA, USA<br>Portland, OR, USA|
 |[Senior Product Designer, Publishing (Design systems)](https://nytimes.wd5.myworkdayjobs.com/en-US/NYT/job/New-York-NY/Senior-Product-Designer--Publishing-Tools_REQ-004413-1)|NY Times|New York, NY, USA|
 |[Sr. Product Designer, UI and Design Systems](https://www.smartrecruiters.com/ancestry/743999686933198)|Ancestry|San Francisco, CA, USA|
 |[Design Lead, UI and Design Systems](https://jobs.lever.co/grandrounds/feebde25-1196-4469-85e1-0346dbc8b493)|Grand Rounds|San Francisco, CA, USA|
@@ -82,14 +81,13 @@ Awesome job opportunities for UI designers, design system leads and other design
 |[Product Designer, Design Systems](https://asana.com/jobs/apply/1589228/product-designerdesign-systems)|Asana|San Francisco, CA, USA|
 |[Product Designer, Design Systems](https://www.gotinder.com/jobs/apply?gh_jid=1542703)|Tinder|Los Angeles, CA, USA|
 |[Senior Product Designer - Design Systems](https://www.compass.com/careers/?gh_jid=1434105)|Compass|New York, NY, USA|
-|[Senior UX Design Systems](https://herodigital.com/current-openings/?gh_jid=1596045)|Hero Digital|Cupertino, CA, USA|
+|[Sr. Interactive Designer (Design Systems)](https://herodigital.com/current-openings/?gh_jid=1596045)|Hero Digital|Cupertino, CA, USA|
 |[Product Design Leadership, Design Systems](https://boards.greenhouse.io/gusto/jobs/978162)|Gusto|San Francisco, CA, USA|
 |[Product Designer, Design Systems](https://www.squarespace.com/careers/jobs/1550877)|Squarespace|New York, NY, USA|
 |[Product Designer, Design Systems - Jemstep](http://careers.invesco.com/ShowJob/Id/227833/)|Invesco|Los Altos, CA, USA|
 |[Lead Product Designer (Design Systems)](https://grnh.se/d6b9c94b1)|N26|Berlin, Germany|
 |[Principal Product Designer, Design Systems](https://jobs.libertymutualgroup.com/job/9307074/principal-product-designer-design-systems-boston-ma/)|Liberty Mutual Insurance|Boston, MA, USA|
 |[Visual Designer, Design Systems](https://grnh.se/44b756c41)|SurveyMonkey|San Mateo, CA, USA|
-|[Lead Designer, Design Systems](https://jobs.lever.co/atlassian/7f42feb8-fdfc-41ca-a83d-8fe68216a031)|Atlassian|Mountain View, CA, USA|
 |[Senior Product Designer, Platform Fabric](https://www.atlassian.com/company/careers/detail/83107944-a570-4d77-9594-2e35d2574c3c?fbclid=IwAR3UyqUWJmepR1x_wsilz5qeLItIjz_8T2SJREuuw0vCDrjOvagNoRSVS_o)|Atlassian|Sydney, Australia|
 |[Visual Designer, Design Systems](https://www.thoughtspot.com/careers-listing?gh_jid=1583698)|ThoughtSpot|Sunnyvale, CA, USA|
 |[Senior UX Designer, Design Systems](https://rei.jobs/careers/JobDetail/Senior-User-Experience-Designer-Design-Systems/12700)|REI Co-op|Kent, WA, USA|
@@ -106,11 +104,10 @@ Awesome opportunities for all content writers, QA testers, product managers, ...
 |⚡[UI Director](https://jobs.lever.co/instructure/885c20c4-eceb-4827-a88d-6e14f93f940f)|Instructure|Salt Lake City, UT, USA|
 |⚡[Design Program Manager, Design Systems](https://www.splunk.com/en_us/careers/jobs/design-program-manager-design-11893.html)|Splunk|San Francisco, CA, USA|
 |⚡[Director – Intuit Design System](https://careers.intuit.com/job-category/2/design-and-user-experience/job/2019-9740/director-intuit-design-system)|Intuit|Mountain View, CA, USA|
-|⚡[Manager, Design Systems](https://jobs.hilton.com/job/Manager%2C-Design-Systems/J3T7CJ6GJVZTRJ672L8)|Hilton|Memphis, TN, USA<br>Dallas, TX, USA|
+|[Manager, Design Systems](https://jobs.hilton.com/job/Manager%2C-Design-Systems/J3T7CJ6GJVZTRJ672L8)|Hilton|Memphis, TN, USA<br>Dallas, TX, USA|
 |[Director, Design Systems](https://www.verizon.com/about/work/jobs/3918338-director-design-systems)|Verizon|New York, NY, USA|
 |[Product Manager – Design Language System](https://www.spotifyjobs.com/job/product-manager-design-language-systems-o73g9fwj/)|Spotify|Stockholm, Sweden|
 |[Product Manager, Design Language System](https://careers.airbnb.com/positions/1436390/)|Airbnb|San Francisco, CA, USA|
-|[Sr. Content Strategist, Spectrum Design System](https://www.linkedin.com/jobs/view/sr-content-strategist-spectrum-design-system-at-adobe-1173624104/)|Adobe|San Francisco, CA, USA|
 |[Product Design Manager (Design Systems and Operations)](https://jobs.disneycareers.com/job/new-york/product-design-manager-design-systems-and-operations/391/11250720)|Disney|New York, NY, USA|
 |[Design System Program Manager](https://www.linkedin.com/jobs/view/design-system-program-manager-at-autodesk-1211210996/)|Autodesk|San Francisco, CA, USA|
 |[Design System Product Manager](https://yoobic.welcomekit.co/jobs/design-system-product-manager_london)|Yoobic|London, UK|
