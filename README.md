@@ -82,7 +82,7 @@ Awesome job opportunities for UI designers, design system leads and other design
 |[Product Designer, Design Systems](https://asana.com/jobs/apply/1589228/product-designerdesign-systems)|Asana|San Francisco, CA, USA|
 |[Product Designer, Design Systems](https://www.gotinder.com/jobs/apply?gh_jid=1542703)|Tinder|Los Angeles, CA, USA|
 |[Senior Product Designer - Design Systems](https://www.compass.com/careers/?gh_jid=1434105)|Compass|New York, NY, USA|
-|[Senior UX Design Systems](https://herodigital.com/current-openings/?gh_jid=1596045)|Hero Digital|Cupertino, CA, USA|
+|[Sr. Interactive Designer (Design Systems)](https://herodigital.com/current-openings/?gh_jid=1596045)|Hero Digital|Cupertino, CA, USA|
 |[Product Design Leadership, Design Systems](https://boards.greenhouse.io/gusto/jobs/978162)|Gusto|San Francisco, CA, USA|
 |[Product Designer, Design Systems](https://www.squarespace.com/careers/jobs/1550877)|Squarespace|New York, NY, USA|
 |[Product Designer, Design Systems - Jemstep](http://careers.invesco.com/ShowJob/Id/227833/)|Invesco|Los Altos, CA, USA|
