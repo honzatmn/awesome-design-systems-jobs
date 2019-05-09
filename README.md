@@ -111,7 +111,6 @@ Awesome opportunities for all content writers, QA testers, product managers, ...
 |[Director, Design Systems](https://www.verizon.com/about/work/jobs/3918338-director-design-systems)|Verizon|New York, NY, USA|
 |[Product Manager – Design Language System](https://www.spotifyjobs.com/job/product-manager-design-language-systems-o73g9fwj/)|Spotify|Stockholm, Sweden|
 |[Product Manager, Design Language System](https://careers.airbnb.com/positions/1436390/)|Airbnb|San Francisco, CA, USA|
-|[Sr. Content Strategist, Spectrum Design System](https://www.linkedin.com/jobs/view/sr-content-strategist-spectrum-design-system-at-adobe-1173624104/)|Adobe|San Francisco, CA, USA|
 |[Product Design Manager (Design Systems and Operations)](https://jobs.disneycareers.com/job/new-york/product-design-manager-design-systems-and-operations/391/11250720)|Disney|New York, NY, USA|
 |[Design System Program Manager](https://www.linkedin.com/jobs/view/design-system-program-manager-at-autodesk-1211210996/)|Autodesk|San Francisco, CA, USA|
 |[Design System Product Manager](https://yoobic.welcomekit.co/jobs/design-system-product-manager_london)|Yoobic|London, UK|
