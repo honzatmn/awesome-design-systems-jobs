@@ -50,6 +50,7 @@ Awesome job opportunities for UI designers, design system leads and other design
 
 |  | Company | Location |
 |----------|---------|----------|
+|⚡[Digital / UI Designer](https://ifyoucouldjobs.com/job/hfxodiv0v)|The Economist|London, UK|
 |⚡[Product Designer, Design Systems](https://www.hubspot.com/jobs/apply?gh_jid=1681851)|HubSpot|Cambridge, MA, USA|
 |⚡[Interaction Designer, Design Systems](https://www.mongodb.com/careers/jobs/1674427)|MongoDB|New York, NY, USA|
 |[Senior Product Designer, Design Systems](http://jobs.jobvite.com/sofi/job/ocIn8fw9)|SoFi|San Francisco, CA, USA|
