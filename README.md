@@ -14,6 +14,7 @@ Awesome opportunities for UI Engineers, Front-end Engineers and other engineerin
 
 |  | Company | Location |
 |----------|---------|----------|
+|⚡[Senior Design Technologist](https://www.bold.com/jobs-description/?gh_jid=1676701)|Bold|San Francisco, CA, USA|
 |⚡[Front End Engineer](https://recruiting.ultipro.com/usg1006/JobBoard/dfc53730-57d1-3460-336f-ddafabd108f3/OpportunityDetail?opportunityId=eb1f90bb-d4d9-4536-bacb-5987ee4ee999)|Ultimate Software|Toronto, Canada<br>Ft. Lauderdale, FL, USA|
 |⚡[React Developer - Global Design](https://clear-score.workable.com/jobs/572476)|ClearScore|London, UK|
 |⚡[UX Engineer, Design System](https://www.bill.com/about-us/careers/jobs/?p=job%2Fo5G09fwE)|Bill.com|Palo Alto, CA, USA<br>Remote, US|
@@ -103,6 +104,7 @@ Awesome opportunities for all content writers, QA testers, product managers, ...
 
 |  | Company | Location |
 |----------|---------|----------|
+|⚡[UX Design Systems Lead](https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/Seattle/UX-Product-Manager_RP1012457)|F5 Networks|Seattle, WA, USA|
 |⚡[UI Director](https://jobs.lever.co/instructure/885c20c4-eceb-4827-a88d-6e14f93f940f)|Instructure|Salt Lake City, UT, USA|
 |⚡[Design Program Manager, Design Systems](https://www.splunk.com/en_us/careers/jobs/design-program-manager-design-11893.html)|Splunk|San Francisco, CA, USA|
 |⚡[Director – Intuit Design System](https://careers.intuit.com/job-category/2/design-and-user-experience/job/2019-9740/director-intuit-design-system)|Intuit|Mountain View, CA, USA|
