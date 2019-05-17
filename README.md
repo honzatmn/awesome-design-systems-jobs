@@ -17,6 +17,7 @@ Awesome opportunities for UI Engineers, Front-end Engineers and other engineerin
 |⚡[Digital – Sr. Design Technologist](https://jobs.jpmorganchase.com/ShowJob/Id/225852/Digital%20%E2%80%93%20Sr.%20Design%20Technologist)|JPMorgan Chase & Co|Palo Alto, CA, USA|
 |⚡[Senior Design Technologist](https://www.bold.com/jobs-description/?gh_jid=1676701)|Bold|San Francisco, CA, USA|
 |⚡[Front End Engineer](https://recruiting.ultipro.com/usg1006/JobBoard/dfc53730-57d1-3460-336f-ddafabd108f3/OpportunityDetail?opportunityId=eb1f90bb-d4d9-4536-bacb-5987ee4ee999)|Ultimate Software|Toronto, Canada<br>Ft. Lauderdale, FL, USA|
+|[Software Engineer III- Front End Full Stack Dev](https://www.linkedin.com/jobs/view/sr-ux-design-system-developer-at-f5-networks-1118352858/)|F5 Networks|Seattle, WA, US|
 |[React Developer - Global Design](https://clear-score.workable.com/jobs/572476)|ClearScore|London, UK|
 |[UX Engineer, Design System](https://www.bill.com/about-us/careers/jobs/?p=job%2Fo5G09fwE)|Bill.com|Palo Alto, CA, USA<br>Remote, US|
 |[Senior Frontend Engineer, System Design](https://www.wayfaircareers.com/jobs/o0jz9fwL)|Wayfair|Boston, MA, USA|
@@ -70,7 +71,6 @@ Awesome job opportunities for UI designers, design system leads and other design
 |[Lead/Principal Visual Designer - Design Systems](https://boards.greenhouse.io/fitbit92/jobs/1432238)|Fitbit|San Francisco, CA, USA|
 |[Principal UX Design Systems](https://informatica.gr8people.com/index.gp?method=cappportal.showJob&sysLayoutId=122&opportunityId=25373)|Informatica|Redwood City, CA, USA|
 |[Design Lead (Systems)](https://www.jobiak.ai/job/new-york-ny-10166/design-lead-systems-714221817)|MetLife|New York, NY, USA|
-|[Sr. UX Design System Developer](https://www.linkedin.com/jobs/view/sr-ux-design-system-developer-at-f5-networks-1118352858/)|F5 Networks|Seattle, WA, US|
 |[Principal Designer - UI and Design Systems](https://www.smartrecruiters.com/ancestry/743999686704737)|Ancestry|San Francisco, CA, USA|
 |[Visual Designer, Design Systems](https://boards.greenhouse.io/chanzuckerberginitiative/jobs/1188519)|Chan Zuckerberg Initiative|Redwood City, CA, USA|
 |[Product Designer, Design Systems](https://www.flexport.com/careers/job/1631138)|Flexport|San Francisco, CA, USA|
