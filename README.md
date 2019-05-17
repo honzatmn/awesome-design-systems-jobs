@@ -82,8 +82,6 @@ Awesome job opportunities for UI designers, design system leads and other design
 |[Senior Product Designer, Design Systems](https://turo.com/jobs/1622856)|Turo|San Francisco, CA, USA|
 |[Design Ops](https://onfido.workable.com/jobs/934643)|Onfido|London, UK|
 |[Systems Designer](https://jobs.apple.com/en-us/details/114352513/systems-designer)|Apple|Cupertino, CA, USA|
-|[Visual Designer – AWS Design System](https://www.amazon.jobs/en/jobs/802277/visual-designer-aws-design-system)|Amazon|Berlin, Germany|
-|[UX Designer – AWS Design System](https://www.amazon.jobs/en/jobs/802290/ux-designer-aws-design-system)|Amazon|Berlin, Germany|
 |[Product Designer, Design Systems](https://asana.com/jobs/apply/1589228/product-designerdesign-systems)|Asana|San Francisco, CA, USA|
 |[Product Designer, Design Systems](https://www.gotinder.com/jobs/apply?gh_jid=1542703)|Tinder|Los Angeles, CA, USA|
 |[Senior Product Designer - Design Systems](https://www.compass.com/careers/?gh_jid=1434105)|Compass|New York, NY, USA|
