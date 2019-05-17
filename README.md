@@ -14,8 +14,10 @@ Awesome opportunities for UI Engineers, Front-end Engineers and other engineerin
 
 |  | Company | Location |
 |----------|---------|----------|
+|⚡[Digital – Sr. Design Technologist](https://jobs.jpmorganchase.com/ShowJob/Id/225852/Digital%20%E2%80%93%20Sr.%20Design%20Technologist)|JPMorgan Chase & Co|Palo Alto, CA, USA|
 |⚡[Senior Design Technologist](https://www.bold.com/jobs-description/?gh_jid=1676701)|Bold|San Francisco, CA, USA|
 |⚡[Front End Engineer](https://recruiting.ultipro.com/usg1006/JobBoard/dfc53730-57d1-3460-336f-ddafabd108f3/OpportunityDetail?opportunityId=eb1f90bb-d4d9-4536-bacb-5987ee4ee999)|Ultimate Software|Toronto, Canada<br>Ft. Lauderdale, FL, USA|
+|[Software Engineer III- Front End Full Stack Dev](https://www.linkedin.com/jobs/view/sr-ux-design-system-developer-at-f5-networks-1118352858/)|F5 Networks|Seattle, WA, US|
 |[React Developer - Global Design](https://clear-score.workable.com/jobs/572476)|ClearScore|London, UK|
 |[UX Engineer, Design System](https://www.bill.com/about-us/careers/jobs/?p=job%2Fo5G09fwE)|Bill.com|Palo Alto, CA, USA<br>Remote, US|
 |[Senior Frontend Engineer, System Design](https://www.wayfaircareers.com/jobs/o0jz9fwL)|Wayfair|Boston, MA, USA|
@@ -27,7 +29,6 @@ Awesome opportunities for UI Engineers, Front-end Engineers and other engineerin
 |[Frontend Engineer, Design Systems](https://www.flexport.com/careers/job/541800)|Flexport|San Francisco, CA, USA|
 |[Software Engineer - Design System for iOS](https://jobs.lever.co/ring/4df29132-e9ba-4f79-9353-91514f77ddce)|Ring Inc|Malvern, PA, USA|
 |[Software Engineer - Design System for Android](https://jobs.lever.co/ring/6c1e4fd4-8e69-4da6-8ae5-72aeb24c352b)|Ring Inc|Malvern, PA, USA|
-|[Front End Developer (Design Systems)](https://vitamintalent.com/talent/jobs/146339)|Vitamit T|Needham, MA, USA|
 |[Design Technologist (Android)](https://proteus.wd5.myworkdayjobs.com/en-US/Proteus/job/Redwood-City-CA/Design-Technologist_R3368716)|Proteus|Redwood City, CA, USA|
 |[Front End Developer](https://www.bisnode.se/om-bisnode/om-oss/karriar/front-end-developer/)|Bisnode|Stockholm, Sweden|
 |[Design System Engineer (Front-End Developer)](https://angel.co/eximchain/jobs/404593-design-system-engineer-front-end-developer)|Eximchain|Singapore<br>Remote|
@@ -50,6 +51,8 @@ Awesome job opportunities for UI designers, design system leads and other design
 
 |  | Company | Location |
 |----------|---------|----------|
+|⚡[UX Designer – Design Systems](https://www.linkedin.com/jobs/view/1269837141/)|Q Systems International Inc.|New York, NY, UA|
+|⚡[Product Designer - Design System](https://jobs.lever.co/klarna/55e0184a-27cc-4355-a931-96099fd91c3f)|Klarna|Stockholm, Sweden|
 |⚡[Digital / UI Designer](https://ifyoucouldjobs.com/job/hfxodiv0v)|The Economist|London, UK|
 |⚡[Product Designer, Design Systems](https://www.hubspot.com/jobs/apply?gh_jid=1681851)|HubSpot|Cambridge, MA, USA|
 |⚡[Interaction Designer, Design Systems](https://www.mongodb.com/careers/jobs/1674427)|MongoDB|New York, NY, USA|
@@ -67,21 +70,15 @@ Awesome job opportunities for UI designers, design system leads and other design
 |[Lead/Principal Visual Designer - Design Systems](https://boards.greenhouse.io/fitbit92/jobs/1432238)|Fitbit|San Francisco, CA, USA|
 |[Principal UX Design Systems](https://informatica.gr8people.com/index.gp?method=cappportal.showJob&sysLayoutId=122&opportunityId=25373)|Informatica|Redwood City, CA, USA|
 |[Design Lead (Systems)](https://www.jobiak.ai/job/new-york-ny-10166/design-lead-systems-714221817)|MetLife|New York, NY, USA|
-|[Sr. UX Design System Developer](https://www.linkedin.com/jobs/view/sr-ux-design-system-developer-at-f5-networks-1118352858/)|F5 Networks|Seattle, WA, US|
 |[Principal Designer - UI and Design Systems](https://www.smartrecruiters.com/ancestry/743999686704737)|Ancestry|San Francisco, CA, USA|
-|[UX Designer II - Design Systems](https://jobs.cisco.com/jobs/ProjectDetail/UX-Designer-II-Design-Systems/1255949)|Cisco|San Jose, CA, USA|
 |[Visual Designer, Design Systems](https://boards.greenhouse.io/chanzuckerberginitiative/jobs/1188519)|Chan Zuckerberg Initiative|Redwood City, CA, USA|
 |[Product Designer, Design Systems](https://www.flexport.com/careers/job/1631138)|Flexport|San Francisco, CA, USA|
 |[Senior Systems Designer](https://www.framer.com/careers/senior-systems-designer)|Framer|Amsterdam, Netherlands|
 |[Senior Designer - Design Systems](https://careers.twitter.com/en/work-for-twitter/201904/senior-designer-design-systems.html)|Twitter|San Francisco, CA, USA|
-|[Lead UI Designer, Design Systems](https://boards.greenhouse.io/8451/jobs/4254634002?gh_src=16c1b5c62)|84.51°|Cincinnati, OH, USA|
 |[Sr. UI Designer, Common UI Design Systems, AMP](https://jobs.apple.com/en-us/details/200047764/sr-ui-designer-common-ui-design-systems-amp)|Apple|Cupertino, CA, USA|
 |[Senior Product Designer, Design Systems](https://turo.com/jobs/1622856)|Turo|San Francisco, CA, USA|
 |[Design Ops](https://onfido.workable.com/jobs/934643)|Onfido|London, UK|
 |[Systems Designer](https://jobs.apple.com/en-us/details/114352513/systems-designer)|Apple|Cupertino, CA, USA|
-|[Visual Designer – AWS Design System](https://www.amazon.jobs/en/jobs/802277/visual-designer-aws-design-system)|Amazon|Berlin, Germany|
-|[UX Designer – AWS Design System](https://www.amazon.jobs/en/jobs/802290/ux-designer-aws-design-system)|Amazon|Berlin, Germany|
-|[Mobile Product Designer - Design System](https://jobs.zalando.com/jobs/1187695-mobile-product-designer-design-system/)|Zalando|Berlin, Germany|
 |[Product Designer, Design Systems](https://asana.com/jobs/apply/1589228/product-designerdesign-systems)|Asana|San Francisco, CA, USA|
 |[Product Designer, Design Systems](https://www.gotinder.com/jobs/apply?gh_jid=1542703)|Tinder|Los Angeles, CA, USA|
 |[Senior Product Designer - Design Systems](https://www.compass.com/careers/?gh_jid=1434105)|Compass|New York, NY, USA|
@@ -90,7 +87,6 @@ Awesome job opportunities for UI designers, design system leads and other design
 |[Product Designer, Design Systems](https://www.squarespace.com/careers/jobs/1550877)|Squarespace|New York, NY, USA|
 |[Product Designer, Design Systems - Jemstep](http://careers.invesco.com/ShowJob/Id/227833/)|Invesco|Los Altos, CA, USA|
 |[Lead Product Designer (Design Systems)](https://grnh.se/d6b9c94b1)|N26|Berlin, Germany|
-|[Principal Product Designer, Design Systems](https://jobs.libertymutualgroup.com/job/9307074/principal-product-designer-design-systems-boston-ma/)|Liberty Mutual Insurance|Boston, MA, USA|
 |[Visual Designer, Design Systems](https://grnh.se/44b756c41)|SurveyMonkey|San Mateo, CA, USA|
 |[Senior Product Designer, Platform Fabric](https://www.atlassian.com/company/careers/detail/83107944-a570-4d77-9594-2e35d2574c3c?fbclid=IwAR3UyqUWJmepR1x_wsilz5qeLItIjz_8T2SJREuuw0vCDrjOvagNoRSVS_o)|Atlassian|Sydney, Australia|
 |[Visual Designer, Design Systems](https://www.thoughtspot.com/careers-listing?gh_jid=1583698)|ThoughtSpot|Sunnyvale, CA, USA|
@@ -109,7 +105,6 @@ Awesome opportunities for all content writers, QA testers, product managers, ...
 |[UI Director](https://jobs.lever.co/instructure/885c20c4-eceb-4827-a88d-6e14f93f940f)|Instructure|Salt Lake City, UT, USA|
 |[Design Program Manager, Design Systems](https://www.splunk.com/en_us/careers/jobs/design-program-manager-design-11893.html)|Splunk|San Francisco, CA, USA|
 |[Director – Intuit Design System](https://careers.intuit.com/job-category/2/design-and-user-experience/job/2019-9740/director-intuit-design-system)|Intuit|Mountain View, CA, USA|
-|[Manager, Design Systems](https://jobs.hilton.com/job/Manager%2C-Design-Systems/J3T7CJ6GJVZTRJ672L8)|Hilton|Memphis, TN, USA<br>Dallas, TX, USA|
 |[Director, Design Systems](https://www.verizon.com/about/work/jobs/3918338-director-design-systems)|Verizon|New York, NY, USA|
 |[Product Manager – Design Language System](https://www.spotifyjobs.com/job/product-manager-design-language-systems-o73g9fwj/)|Spotify|Stockholm, Sweden|
 |[Product Manager, Design Language System](https://careers.airbnb.com/positions/1436390/)|Airbnb|San Francisco, CA, USA|
