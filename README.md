@@ -29,7 +29,6 @@ Awesome opportunities for UI Engineers, Front-end Engineers and other engineerin
 |[Frontend Engineer, Design Systems](https://www.flexport.com/careers/job/541800)|Flexport|San Francisco, CA, USA|
 |[Software Engineer - Design System for iOS](https://jobs.lever.co/ring/4df29132-e9ba-4f79-9353-91514f77ddce)|Ring Inc|Malvern, PA, USA|
 |[Software Engineer - Design System for Android](https://jobs.lever.co/ring/6c1e4fd4-8e69-4da6-8ae5-72aeb24c352b)|Ring Inc|Malvern, PA, USA|
-|[Front End Developer (Design Systems)](https://vitamintalent.com/talent/jobs/146339)|Vitamit T|Needham, MA, USA|
 |[Design Technologist (Android)](https://proteus.wd5.myworkdayjobs.com/en-US/Proteus/job/Redwood-City-CA/Design-Technologist_R3368716)|Proteus|Redwood City, CA, USA|
 |[Front End Developer](https://www.bisnode.se/om-bisnode/om-oss/karriar/front-end-developer/)|Bisnode|Stockholm, Sweden|
 |[Design System Engineer (Front-End Developer)](https://angel.co/eximchain/jobs/404593-design-system-engineer-front-end-developer)|Eximchain|Singapore<br>Remote|
