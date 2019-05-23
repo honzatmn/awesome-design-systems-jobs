@@ -14,6 +14,7 @@ Awesome opportunities for UI Engineers, Front-end Engineers and other engineerin
 
 |  | Company | Location |
 |----------|---------|----------|
+|⚡[Platform UI Engineer](https://jobs.smartrecruiters.com/Pluralsight/743999688551967-platform-ui-engineer)|Pluralsight|Remote, UT, United States|
 |[Digital – Sr. Design Technologist](https://jobs.jpmorganchase.com/ShowJob/Id/225852/Digital%20%E2%80%93%20Sr.%20Design%20Technologist)|JPMorgan Chase & Co|Palo Alto, CA, USA|
 |[Senior Design Technologist](https://www.bold.com/jobs-description/?gh_jid=1676701)|Bold|San Francisco, CA, USA|
 |[Front End Engineer](https://recruiting.ultipro.com/usg1006/JobBoard/dfc53730-57d1-3460-336f-ddafabd108f3/OpportunityDetail?opportunityId=eb1f90bb-d4d9-4536-bacb-5987ee4ee999)|Ultimate Software|Toronto, Canada<br>Ft. Lauderdale, FL, USA|
@@ -101,7 +102,7 @@ Awesome opportunities for all content writers, QA testers, product managers, ...
 
 |  | Company | Location |
 |----------|---------|----------|
-|[Design System’s Content Writer](https://jobs.kiwi.com/engineering/design-systems-content-writer/)|Kiwi.com|Prague, Czech Republic<br>Brno, Czech Republic<br>Remote (Europe)|
+|⚡[Design System’s Content Writer](https://jobs.kiwi.com/engineering/design-systems-content-writer/)|Kiwi.com|Prague, Czech Republic<br>Brno, Czech Republic<br>Remote (Europe)|
 |[UX Design Systems Lead](https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/Seattle/UX-Product-Manager_RP1012457)|F5 Networks|Seattle, WA, USA|
 |[UI Director](https://jobs.lever.co/instructure/885c20c4-eceb-4827-a88d-6e14f93f940f)|Instructure|Salt Lake City, UT, USA|
 |[Design Program Manager, Design Systems](https://www.splunk.com/en_us/careers/jobs/design-program-manager-design-11893.html)|Splunk|San Francisco, CA, USA|
