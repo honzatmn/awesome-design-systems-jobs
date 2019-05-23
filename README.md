@@ -102,6 +102,7 @@ Awesome opportunities for all content writers, QA testers, product managers, ...
 
 |  | Company | Location |
 |----------|---------|----------|
+|⚡[Senior Product Design Manager](https://www.nerdwallet.com/careers/job/1692697)|Nerdwallet|San Francisco, CA, USA|
 |⚡[Design System’s Content Writer](https://jobs.kiwi.com/engineering/design-systems-content-writer/)|Kiwi.com|Prague, Czech Republic<br>Brno, Czech Republic<br>Remote (Europe)|
 |[UX Design Systems Lead](https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/Seattle/UX-Product-Manager_RP1012457)|F5 Networks|Seattle, WA, USA|
 |[UI Director](https://jobs.lever.co/instructure/885c20c4-eceb-4827-a88d-6e14f93f940f)|Instructure|Salt Lake City, UT, USA|
