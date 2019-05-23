@@ -14,7 +14,8 @@ Awesome opportunities for UI Engineers, Front-end Engineers and other engineerin
 
 |  | Company | Location |
 |----------|---------|----------|
-|⚡[Platform UI Engineer](https://jobs.smartrecruiters.com/Pluralsight/743999688551967-platform-ui-engineer)|Pluralsight|Remote, UT, United States|
+|⚡[Sr. UI Engineer](https://boards.greenhouse.io/joybird/jobs/4058558002)|Joybird|Commerce, CA, USA<br>Remote, USA|
+|⚡[Platform UI Engineer](https://jobs.smartrecruiters.com/Pluralsight/743999688551967-platform-ui-engineer)|Pluralsight|Remote, UT, USA|
 |[Digital – Sr. Design Technologist](https://jobs.jpmorganchase.com/ShowJob/Id/225852/Digital%20%E2%80%93%20Sr.%20Design%20Technologist)|JPMorgan Chase & Co|Palo Alto, CA, USA|
 |[Senior Design Technologist](https://www.bold.com/jobs-description/?gh_jid=1676701)|Bold|San Francisco, CA, USA|
 |[Front End Engineer](https://recruiting.ultipro.com/usg1006/JobBoard/dfc53730-57d1-3460-336f-ddafabd108f3/OpportunityDetail?opportunityId=eb1f90bb-d4d9-4536-bacb-5987ee4ee999)|Ultimate Software|Toronto, Canada<br>Ft. Lauderdale, FL, USA|
