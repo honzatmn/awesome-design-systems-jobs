@@ -14,9 +14,13 @@ Awesome opportunities for UI Engineers, Front-end Engineers and other engineerin
 
 |  | Company | Location |
 |----------|---------|----------|
-|⚡[Digital – Sr. Design Technologist](https://jobs.jpmorganchase.com/ShowJob/Id/225852/Digital%20%E2%80%93%20Sr.%20Design%20Technologist)|JPMorgan Chase & Co|Palo Alto, CA, USA|
-|⚡[Senior Design Technologist](https://www.bold.com/jobs-description/?gh_jid=1676701)|Bold|San Francisco, CA, USA|
-|⚡[Front End Engineer](https://recruiting.ultipro.com/usg1006/JobBoard/dfc53730-57d1-3460-336f-ddafabd108f3/OpportunityDetail?opportunityId=eb1f90bb-d4d9-4536-bacb-5987ee4ee999)|Ultimate Software|Toronto, Canada<br>Ft. Lauderdale, FL, USA|
+|⚡[UX Engineer](https://lms78.applytojob.com/apply/YJZzPYyZxK/UX-Engineer)|LMS|Orlando, FL, USA|
+|⚡[UI Developer](https://boards.greenhouse.io/bottomlinetechnologies/jobs/4284914002)|Bottomline Technologies|Remote|
+|⚡[Sr. UI Engineer](https://boards.greenhouse.io/joybird/jobs/4058558002)|Joybird|Commerce, CA, USA<br>Remote, USA|
+|⚡[Platform UI Engineer](https://jobs.smartrecruiters.com/Pluralsight/743999688551967-platform-ui-engineer)|Pluralsight|Remote, UT, USA|
+|[Digital – Sr. Design Technologist](https://jobs.jpmorganchase.com/ShowJob/Id/225852/Digital%20%E2%80%93%20Sr.%20Design%20Technologist)|JPMorgan Chase & Co|Palo Alto, CA, USA|
+|[Senior Design Technologist](https://www.bold.com/jobs-description/?gh_jid=1676701)|Bold|San Francisco, CA, USA|
+|[Front End Engineer](https://recruiting.ultipro.com/usg1006/JobBoard/dfc53730-57d1-3460-336f-ddafabd108f3/OpportunityDetail?opportunityId=eb1f90bb-d4d9-4536-bacb-5987ee4ee999)|Ultimate Software|Toronto, Canada<br>Ft. Lauderdale, FL, USA|
 |[Software Engineer III- Front End Full Stack Dev](https://www.linkedin.com/jobs/view/sr-ux-design-system-developer-at-f5-networks-1118352858/)|F5 Networks|Seattle, WA, US|
 |[React Developer - Global Design](https://clear-score.workable.com/jobs/572476)|ClearScore|London, UK|
 |[UX Engineer, Design System](https://www.bill.com/about-us/careers/jobs/?p=job%2Fo5G09fwE)|Bill.com|Palo Alto, CA, USA<br>Remote, US|
@@ -51,11 +55,12 @@ Awesome job opportunities for UI designers, design system leads and other design
 
 |  | Company | Location |
 |----------|---------|----------|
+|⚡[UI Designer – Design System](https://britecore.bamboohr.com/jobs/view.php?id=28)|BriteCore|Springfield, MI, USA|
 |⚡[UX Designer – Design Systems](https://www.linkedin.com/jobs/view/1269837141/)|Q Systems International Inc.|New York, NY, UA|
 |⚡[Product Designer - Design System](https://jobs.lever.co/klarna/55e0184a-27cc-4355-a931-96099fd91c3f)|Klarna|Stockholm, Sweden|
-|⚡[Digital / UI Designer](https://ifyoucouldjobs.com/job/hfxodiv0v)|The Economist|London, UK|
-|⚡[Product Designer, Design Systems](https://www.hubspot.com/jobs/apply?gh_jid=1681851)|HubSpot|Cambridge, MA, USA|
-|⚡[Interaction Designer, Design Systems](https://www.mongodb.com/careers/jobs/1674427)|MongoDB|New York, NY, USA|
+|[Digital / UI Designer](https://ifyoucouldjobs.com/job/hfxodiv0v)|The Economist|London, UK|
+|[Product Designer, Design Systems](https://www.hubspot.com/jobs/apply?gh_jid=1681851)|HubSpot|Cambridge, MA, USA|
+|[Interaction Designer, Design Systems](https://www.mongodb.com/careers/jobs/1674427)|MongoDB|New York, NY, USA|
 |[Senior Product Designer, Design Systems](http://jobs.jobvite.com/sofi/job/ocIn8fw9)|SoFi|San Francisco, CA, USA|
 |[UI Designer, Design System](https://www.bill.com/about-us/careers/jobs/?p=job%2FoXV19fwM)|Bill.com|Palo Alto, CA, USA|
 |[Design System Visual Designer](https://jobs.cisco.com/jobs/ProjectDetail/Design-System-Visual-Designer/1261352)|Cisco Systems|Milpitas, CA, USA|
@@ -101,8 +106,10 @@ Awesome opportunities for all content writers, QA testers, product managers, ...
 
 |  | Company | Location |
 |----------|---------|----------|
+|⚡[Product Manager (for DSM product)](https://boards.greenhouse.io/invision/jobs/1682392)|Invision|Remote|
+|⚡[Senior Product Design Manager](https://www.nerdwallet.com/careers/job/1692697)|Nerdwallet|San Francisco, CA, USA|
 |⚡[Design System’s Content Writer](https://jobs.kiwi.com/engineering/design-systems-content-writer/)|Kiwi.com|Prague, Czech Republic<br>Brno, Czech Republic<br>Remote (Europe)|
-|⚡[UX Design Systems Lead](https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/Seattle/UX-Product-Manager_RP1012457)|F5 Networks|Seattle, WA, USA|
+|[UX Design Systems Lead](https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/Seattle/UX-Product-Manager_RP1012457)|F5 Networks|Seattle, WA, USA|
 |[UI Director](https://jobs.lever.co/instructure/885c20c4-eceb-4827-a88d-6e14f93f940f)|Instructure|Salt Lake City, UT, USA|
 |[Design Program Manager, Design Systems](https://www.splunk.com/en_us/careers/jobs/design-program-manager-design-11893.html)|Splunk|San Francisco, CA, USA|
 |[Director – Intuit Design System](https://careers.intuit.com/job-category/2/design-and-user-experience/job/2019-9740/director-intuit-design-system)|Intuit|Mountain View, CA, USA|
