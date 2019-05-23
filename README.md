@@ -104,6 +104,7 @@ Awesome opportunities for all content writers, QA testers, product managers, ...
 
 |  | Company | Location |
 |----------|---------|----------|
+|⚡[Product Manager (for DSM product)](https://boards.greenhouse.io/invision/jobs/1682392)|Invision|Remote|
 |⚡[Senior Product Design Manager](https://www.nerdwallet.com/careers/job/1692697)|Nerdwallet|San Francisco, CA, USA|
 |⚡[Design System’s Content Writer](https://jobs.kiwi.com/engineering/design-systems-content-writer/)|Kiwi.com|Prague, Czech Republic<br>Brno, Czech Republic<br>Remote (Europe)|
 |[UX Design Systems Lead](https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/Seattle/UX-Product-Manager_RP1012457)|F5 Networks|Seattle, WA, USA|
