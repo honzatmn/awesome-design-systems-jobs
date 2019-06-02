@@ -51,6 +51,7 @@ Awesome job opportunities for UI designers, design system leads and other design
 
 |  | Company | Location |
 |----------|---------|----------|
+|⚡[Specialist, Design System](https://jobs.rogers.com/job/Montreal-Specialist%2C-Design-System-QC-H5A-1K3/558206100/)|Fido|Montreal, Canada|
 |⚡[Designer - Design Systems (Threads)](https://jobs.lever.co/plaid/bfd9d747-dbd3-4dc9-ae87-2d905f5ab11a)|Plaid|San Francisco, CA, USA|
 |⚡[User Experience Designer, Design Systems](https://jobs.zs.com/Americas/job/Evanston-User-Experience-Designer-%28Evanston%2C-IL%29-IL-60201/522554500/)|ZS Associates|Evanston, IL, USA|
 |[UI Designer – Design System](https://britecore.bamboohr.com/jobs/view.php?id=28)|BriteCore|Remote|
