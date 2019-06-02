@@ -62,7 +62,6 @@ Awesome job opportunities for UI designers, design system leads and other design
 |[Interaction Designer, Design Systems](https://www.mongodb.com/careers/jobs/1674427)|MongoDB|New York, NY, USA|
 |[Senior Product Designer, Design Systems](http://jobs.jobvite.com/sofi/job/ocIn8fw9)|SoFi|San Francisco, CA, USA|
 |[UI Designer, Design System](https://www.bill.com/about-us/careers/jobs/?p=job%2FoXV19fwM)|Bill.com|Palo Alto, CA, USA|
-|[Design System Visual Designer](https://jobs.cisco.com/jobs/ProjectDetail/Design-System-Visual-Designer/1261352)|Cisco Systems|Milpitas, CA, USA|
 |[UI Designer - Esri Design System](https://www.esri.com/en-us/about/careers/job-detail?req=10809)|Esri|Redlands, CA, USA<br>Portland, OR, USA|
 |[Sr. Product Designer, UI and Design Systems](https://www.smartrecruiters.com/ancestry/743999686933198)|Ancestry|San Francisco, CA, USA|
 |[Design Lead, UI and Design Systems](https://jobs.lever.co/grandrounds/feebde25-1196-4469-85e1-0346dbc8b493)|Grand Rounds|San Francisco, CA, USA|
