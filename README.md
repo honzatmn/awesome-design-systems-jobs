@@ -23,7 +23,6 @@ Awesome opportunities for UI Engineers, Front-end Engineers and other engineerin
 |[Software Engineer III- Front End Full Stack Dev](https://www.linkedin.com/jobs/view/sr-ux-design-system-developer-at-f5-networks-1118352858/)|F5 Networks|Seattle, WA, US|
 |[React Developer - Global Design](https://clear-score.workable.com/jobs/572476)|ClearScore|London, UK|
 |[UX Engineer, Design System](https://www.bill.com/about-us/careers/jobs/?p=job%2Fo5G09fwE)|Bill.com|Palo Alto, CA, USA<br>Remote, US|
-|[Senior Frontend Engineer, System Design](https://www.wayfaircareers.com/jobs/o0jz9fwL)|Wayfair|Boston, MA, USA|
 |[Principal Developer - Design Systems Team](https://jobs.dell.com/job/cambridge/principal-developer-design-systems-team/375/11298204)|Dell|Cambridge, MA, USA|
 |[Sr. UI Engineer](https://cbre.referrals.selectminds.com/jobs/sr-ui-engineer-45552)|CBRE|New York, NY, USA|
 |[Senior Frontend Software Engineer, Design Systems](https://www.etsy.com/careers/job/139be11f-de4c-4bf5-82ee-d1de4a630d92)|Etsy|Remote|
