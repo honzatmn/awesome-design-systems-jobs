@@ -49,6 +49,7 @@ Awesome job opportunities for UI designers, design system leads and other design
 
 |  | Company | Location |
 |----------|---------|----------|
+|[User Experience Designer, Design Systems](https://jobs.zs.com/Americas/job/Evanston-User-Experience-Designer-%28Evanston%2C-IL%29-IL-60201/522554500/)|ZS Associates|Evanston, IL, USA|
 |[UI Designer – Design System](https://britecore.bamboohr.com/jobs/view.php?id=28)|BriteCore|Remote|
 |[Product Designer - Design System](https://jobs.lever.co/klarna/55e0184a-27cc-4355-a931-96099fd91c3f)|Klarna|Stockholm, Sweden|
 |[Digital / UI Designer](https://ifyoucouldjobs.com/job/hfxodiv0v)|The Economist|London, UK|
