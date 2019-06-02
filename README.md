@@ -14,6 +14,7 @@ Awesome opportunities for UI Engineers, Front-end Engineers and other engineerin
 
 |  | Company | Location |
 |----------|---------|----------|
+|⚡[UI Developer Intern](https://career4.successfactors.com/career?career_ns=job_listing&company=InEight&e=en_US&career_job_req_id=7205)|InEight|Omaha, NE, USA|
 |[UI Developer](https://boards.greenhouse.io/bottomlinetechnologies/jobs/4284914002)|Bottomline Technologies|Remote|
 |[Sr. UI Engineer](https://boards.greenhouse.io/joybird/jobs/4058558002)|Joybird|Commerce, CA, USA<br>Remote, USA|
 |[Platform UI Engineer](https://jobs.smartrecruiters.com/Pluralsight/743999688551967-platform-ui-engineer)|Pluralsight|Remote, UT, USA|
