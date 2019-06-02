@@ -14,6 +14,7 @@ Awesome opportunities for UI Engineers, Front-end Engineers and other engineerin
 
 |  | Company | Location |
 |----------|---------|----------|
+|⚡[Senior Front-End Engineer - Design Systems and Tooling](https://www.researchgate.net/careers/senior-front-end-engineer-design-systems-and-tooling-m-f-d-5c2bfe6d-8950-4d2b-b55d-8b3a10ff3a2a)|ResearchGate|Berlin, Germany|
 |⚡[Senior UX Engineer - Design System](https://www.compass.com/careers/?gh_jid=1546972)|Compass|New York, NY, USA|
 |⚡[UI Developer Intern](https://career4.successfactors.com/career?career_ns=job_listing&company=InEight&e=en_US&career_job_req_id=7205)|InEight|Omaha, NE, USA|
 |[UI Developer](https://boards.greenhouse.io/bottomlinetechnologies/jobs/4284914002)|Bottomline Technologies|Remote|
