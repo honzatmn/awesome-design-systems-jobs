@@ -14,6 +14,7 @@ Awesome opportunities for UI Engineers, Front-end Engineers and other engineerin
 
 |  | Company | Location |
 |----------|---------|----------|
+|⚡[Front End Developer II - Component Library](https://jobs.lever.co/loblawdigital/cfc9ba14-ede5-4dbe-9d6a-4186f91eb427)|Loblaw digital|Toronto, Canada|
 |⚡[Senior Front End Developer - Component Library](https://jobs.lever.co/loblawdigital/1464ab09-dac1-4154-a66f-f1159e1580e4)|Loblaw digital|Toronto, Canada|
 |⚡[Senior Frontend Developer for Design Systems](https://www.takeaway.com/jobs/vacancy/vacancy-it-frontend-developer-for-design-systems-m-f-d-berlin)|TakeAway.com|Berlin, Germany|
 |⚡[Senior Front-End Engineer - Design Systems and Tooling](https://www.researchgate.net/careers/senior-front-end-engineer-design-systems-and-tooling-m-f-d-5c2bfe6d-8950-4d2b-b55d-8b3a10ff3a2a)|ResearchGate|Berlin, Germany|
