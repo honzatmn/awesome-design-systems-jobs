@@ -109,7 +109,6 @@ Awesome opportunities for all content writers, QA testers, product managers, ...
 |[Director – Intuit Design System](https://careers.intuit.com/job-category/2/design-and-user-experience/job/2019-9740/director-intuit-design-system)|Intuit|Mountain View, CA, USA|
 |[Director, Design Systems](https://www.verizon.com/about/work/jobs/3918338-director-design-systems)|Verizon|New York, NY, USA|
 |[Product Manager – Design Language System](https://www.spotifyjobs.com/job/product-manager-design-language-systems-o73g9fwj/)|Spotify|Stockholm, Sweden|
-|[Product Manager, Design Language System](https://careers.airbnb.com/positions/1436390/)|Airbnb|San Francisco, CA, USA|
 |[Product Design Manager (Design Systems and Operations)](https://jobs.disneycareers.com/job/new-york/product-design-manager-design-systems-and-operations/391/11250720)|Disney|New York, NY, USA|
 |[UX Design System Director](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CA-Pleasanton/UX-Design-System-Director_JR-34610)|Workday|Pleasanton, CA, USA<br>San Francisco, CA, USA|
 |[UX Design Manager, Design System](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CA-San-Francisco/UX-Design-Manager--Design-System_JR-33409)|Workday|San Francisco, CA, USA|
