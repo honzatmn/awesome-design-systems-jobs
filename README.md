@@ -103,6 +103,7 @@ Awesome opportunities for all content writers, QA testers, product managers, ...
 
 |  | Company | Location |
 |----------|---------|----------|
+|⚡[Director - Design Systems](https://careers.walmart.com/us/jobs/1316378BR-director-design-systems-san-bruno-ca)|Walmart|San Bruno, CA, USA|
 |⚡[Staff Quality Engineer](https://jobs.jobvite.com/careers/servicenow/job/otD69fw5)|ServiceNow|Pleasanton, CA, USA|
 |[Product Manager (for DSM product)](https://boards.greenhouse.io/invision/jobs/1682392)|Invision|Remote|
 |[Senior Product Design Manager](https://www.nerdwallet.com/careers/job/1692697)|Nerdwallet|San Francisco, CA, USA|
