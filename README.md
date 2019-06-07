@@ -14,7 +14,7 @@ Awesome opportunities for UI Engineers, Front-end Engineers and other engineerin
 
 |  | Company | Location |
 |----------|---------|----------|
-|⚡[UX Developer](https://boards.greenhouse.io/outdoorsy/jobs/4252218002)|Outdoorsy|Austin, TX, USA<>Remote|
+|⚡[UX Developer](https://boards.greenhouse.io/outdoorsy/jobs/4252218002)|Outdoorsy|Austin, TX, USA<br>Remote|
 |⚡[Front End Developer II - Component Library](https://jobs.lever.co/loblawdigital/cfc9ba14-ede5-4dbe-9d6a-4186f91eb427)|Loblaw Digital|Toronto, Canada|
 |⚡[Senior Front End Developer - Component Library](https://jobs.lever.co/loblawdigital/1464ab09-dac1-4154-a66f-f1159e1580e4)|Loblaw Digital|Toronto, Canada|
 |⚡[Senior Frontend Developer for Design Systems](https://www.takeaway.com/jobs/vacancy/vacancy-it-frontend-developer-for-design-systems-m-f-d-berlin)|TakeAway.com|Berlin, Germany|
@@ -103,7 +103,7 @@ Awesome opportunities for all content writers, QA testers, product managers, ...
 
 |  | Company | Location |
 |----------|---------|----------|
-|⚡[Director - Design Systems](https://careers.walmart.com/us/jobs/1316378BR-director-design-systems-san-bruno-ca)|Walmart|San Bruno, CA, USA|
+|⚡[Director, Design Systems](https://careers.walmart.com/us/jobs/1316378BR-director-design-systems-san-bruno-ca)|Walmart|San Bruno, CA, USA|
 |⚡[Staff Quality Engineer](https://jobs.jobvite.com/careers/servicenow/job/otD69fw5)|ServiceNow|Pleasanton, CA, USA|
 |[Product Manager (for DSM product)](https://boards.greenhouse.io/invision/jobs/1682392)|Invision|Remote|
 |[Senior Product Design Manager](https://www.nerdwallet.com/careers/job/1692697)|Nerdwallet|San Francisco, CA, USA|
