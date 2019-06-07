@@ -14,6 +14,7 @@ Awesome opportunities for UI Engineers, Front-end Engineers and other engineerin
 
 |  | Company | Location |
 |----------|---------|----------|
+|⚡[User Experience (UX) Engineer](https://nuskinhr.csod.com/ux/ats/careersite/4/home/requisition/73)|Nu Skin|Provo, UT, USA|
 |⚡[UX Developer](https://boards.greenhouse.io/outdoorsy/jobs/4252218002)|Outdoorsy|Austin, TX, USA<br>Remote|
 |⚡[Front End Developer II - Component Library](https://jobs.lever.co/loblawdigital/cfc9ba14-ede5-4dbe-9d6a-4186f91eb427)|Loblaw Digital|Toronto, Canada|
 |⚡[Senior Front End Developer - Component Library](https://jobs.lever.co/loblawdigital/1464ab09-dac1-4154-a66f-f1159e1580e4)|Loblaw Digital|Toronto, Canada|
@@ -56,6 +57,7 @@ Awesome job opportunities for UI designers, design system leads and other design
 
 |  | Company | Location |
 |----------|---------|----------|
+|⚡[Senior Visual Designer](https://h2oai.applytojob.com/apply/91noxnSpCI/Senior-Visual-Designer-Mountain-ViewRemote)|h2o.ai|Mountain View, CA, USA<br>Remote|
 |⚡[User Experience Lead, Design Operations](https://careers.tripadvisor.com/job/TRINUS1722095/User-Experience-Lead-Design-Operations)|TripAdvisor|Needham, MA, USA|
 |⚡[Sr Visual Systems Designer](https://carmax.wd1.myworkdayjobs.com/en-US/External/job/Corporate---Richmond/Sr-Visual-Systems-Designer_JR-011547)|CarMax|Richmond, VA, USA|
 |⚡[Lead Product Designer - Design Systems](https://jobsearch.paypal-corp.com/en-US/job/lead-product-designer-design-systems/J3M0RC64T11670V5NVR)|PayPal|San Jose, CA, USA|
