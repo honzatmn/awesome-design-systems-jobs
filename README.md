@@ -55,6 +55,7 @@ Awesome job opportunities for UI designers, design system leads and other design
 
 |  | Company | Location |
 |----------|---------|----------|
+|⚡[User Experience Lead, Design Operations](https://careers.tripadvisor.com/job/TRINUS1722095/User-Experience-Lead-Design-Operations)|TripAdvisor|Needham, MA, USA|
 |⚡[Sr Visual Systems Designer](https://carmax.wd1.myworkdayjobs.com/en-US/External/job/Corporate---Richmond/Sr-Visual-Systems-Designer_JR-011547)|CarMax|Richmond, VA, USA|
 |⚡[Lead Product Designer - Design Systems](https://jobsearch.paypal-corp.com/en-US/job/lead-product-designer-design-systems/J3M0RC64T11670V5NVR)|PayPal|San Jose, CA, USA|
 |⚡[Specialist, Design System](https://jobs.rogers.com/job/Montreal-Specialist%2C-Design-System-QC-H5A-1K3/558206100/)|Fido|Montreal, Canada|
