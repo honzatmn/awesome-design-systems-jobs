@@ -1,4 +1,4 @@
-> **Hi job seeker! Due to my limited time for side projects, we've decided to not maintain this repository anymore. Thanks for understanding.**
+> **Hi job seeker! Due to our limited time for side projects, we've decided to not maintain this repository anymore. Thanks for understanding.**
 
 # Awesome Design Systems Jobs ![Awesome](https://camo.githubusercontent.com/13c4e50d88df7178ae1882a203ed57b641674f94/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667)
 > A curated list of design systems jobs across the universe. We curate only jobs which promise to work on design systems. 
