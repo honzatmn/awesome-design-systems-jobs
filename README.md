@@ -16,6 +16,7 @@ Awesome opportunities for UI Engineers, Front-end Engineers and other engineerin
 
 |  | Company | Location |
 |----------|---------|----------|
+|⚡[Design Technologist](https://boards.greenhouse.io/servicetitan/jobs/1804727)|ServiceTitan|Los Angeles, CA, USA|
 |⚡[User Experience (UX) Engineer](https://nuskinhr.csod.com/ux/ats/careersite/4/home/requisition/73)|Nu Skin|Provo, UT, USA|
 |⚡[UX Developer](https://boards.greenhouse.io/outdoorsy/jobs/4252218002)|Outdoorsy|Austin, TX, USA<br>Remote|
 |⚡[Front End Developer II - Component Library](https://jobs.lever.co/loblawdigital/cfc9ba14-ede5-4dbe-9d6a-4186f91eb427)|Loblaw Digital|Toronto, Canada|
@@ -59,6 +60,7 @@ Awesome job opportunities for UI designers, design system leads and other design
 
 |  | Company | Location |
 |----------|---------|----------|
+|⚡[Design Technologist](https://boards.greenhouse.io/servicetitan/jobs/1804727)|ServiceTitan|Los Angeles, CA, USA|
 |⚡[Senior Visual Designer](https://h2oai.applytojob.com/apply/91noxnSpCI/Senior-Visual-Designer-Mountain-ViewRemote)|h2o.ai|Mountain View, CA, USA<br>Remote|
 |⚡[User Experience Lead, Design Operations](https://careers.tripadvisor.com/job/TRINUS1722095/User-Experience-Lead-Design-Operations)|TripAdvisor|Needham, MA, USA|
 |⚡[Sr Visual Systems Designer](https://carmax.wd1.myworkdayjobs.com/en-US/External/job/Corporate---Richmond/Sr-Visual-Systems-Designer_JR-011547)|CarMax|Richmond, VA, USA|
