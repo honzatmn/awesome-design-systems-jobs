@@ -16,6 +16,7 @@ Awesome opportunities for UI Engineers, Front-end Engineers and other engineerin
 
 |  | Company | Location |
 |----------|---------|----------|
+|⚡[Design Engineer](https://onesignal.com/careers/d1254d96-61a4-4ca0-b1e7-54336cdd2586)|OneSignal|San Mateo, CA, USA|
 |⚡[User Experience (UX) Engineer](https://nuskinhr.csod.com/ux/ats/careersite/4/home/requisition/73)|Nu Skin|Provo, UT, USA|
 |⚡[UX Developer](https://boards.greenhouse.io/outdoorsy/jobs/4252218002)|Outdoorsy|Austin, TX, USA<br>Remote|
 |⚡[Front End Developer II - Component Library](https://jobs.lever.co/loblawdigital/cfc9ba14-ede5-4dbe-9d6a-4186f91eb427)|Loblaw Digital|Toronto, Canada|
